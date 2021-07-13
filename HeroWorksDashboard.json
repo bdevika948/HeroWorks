@@ -1,0 +1,1632 @@
+[
+  {
+    "Feature": "Marketing360",
+    "DescriptionImage": "Images/Slide1.png",
+    "Points": [
+      {
+        "Point": "IOT Hub Europe",
+        "latitude": "40.463667",
+        "longitude": "-3.74922",
+        "size": "medium",
+        "icon": "ICONS/IOTHub.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open IoTHub": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Data Flow"
+
+          },
+          {
+
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          },
+          {
+            "Type": "Image",
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          }
+        ]
+      },
+      {
+        "Point": "IOT Hub China Manufacturing",
+        "latitude": "35.86166",
+        "longitude": "104.195397",
+        "size": "medium",
+        "type": "page",
+        "icon": "ICONS/IOTHub.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open IoTHub": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          },
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          },
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          }
+        ]
+      },
+      {
+        "Point": "IOT Hub Central US Storage",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "medium",
+        "icon": "ICONS/IOTHub.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open IoTHub": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          },
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          },
+          {
+            "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+            "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "Feature": "ITDesk360",
+    "DescriptionImage": "Images/Slide3.PNG",
+    "Points": [
+      {
+        "Point": "Central India Cosmos DB",
+        "latitude": "20.593684",
+        "longitude": "78.96288",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "North Europe Cosmos DB",
+        "latitude": "-75.250973",
+        "longitude": "-0.071389",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "South Africa North Cosmos DB",
+        "latitude": "-30.559482",
+        "longitude": "22.937506",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Australia Central Cosmos DB",
+        "latitude": "-25.274398",
+        "longitude": "133.775136",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Central US Cosmos DB",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Brazil South Cosmos DB",
+        "latitude": "-14.235004",
+        "longitude": "-51.92528",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "East Asia Cosmos DB",
+        "latitude": "1.352083",
+        "longitude": "103.819836",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "UAE North Cosmos DB",
+        "latitude": "23.885942",
+        "longitude": "45.079162",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Canada Central Cosmos DB",
+        "latitude": "56.130366",
+        "longitude": "-106.34677",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "France Central Cosmos DB",
+        "latitude": "46.2276",
+        "longitude": "2.2137",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Germany West Central Cosmos DB",
+        "latitude": "51.1657",
+        "longitude": "10.4515",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Japan East Cosmos DB",
+        "latitude": "36.2048",
+        "longitude": "138.2529",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Korea Central Cosmos DB",
+        "latitude": "35.9078",
+        "longitude": "127.7669",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Norway East Cosmos DB",
+        "latitude": "60.4720",
+        "longitude": "8.4689",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "UK South Cosmos DB",
+        "latitude": "55.3781",
+        "longitude": "-3.4360",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Switzerland North Cosmos DB",
+        "latitude": "46.8182",
+        "longitude": "8.2275",
+        "size": "small",
+        "icon": "ICONS/CosmosDB.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Explorer": "http://www.google.com/" },
+          { "Open IoTHub": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          },
+          {
+            "Data": "https://mostafaelmasry.files.wordpress.com/2020/07/image-30.png",
+            "Text": "Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,Cosmos DB Description here,"
+          }
+        ]
+      }
+    ]
+
+  },
+
+
+  {
+    "Feature": "Employee360",
+    "DescriptionImage": "Images/Slide4.PNG",
+    "Points": [
+      {
+        "Point": "Central India Storage",
+        "latitude": "20.593684",
+        "longitude": "78.96288",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "North Europe Storage",
+        "latitude": "-75.250973",
+        "longitude": "-0.071389",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "South Africa North Storage",
+        "latitude": "-30.559482",
+        "longitude": "22.937506",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Australia Central Storage",
+        "latitude": "-25.274398",
+        "longitude": "133.775136",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Central US Storage",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Brazil South Storage",
+        "latitude": "-14.235004",
+        "longitude": "-51.92528",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "East Asia Storage",
+        "latitude": "1.352083",
+        "longitude": "103.819836",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "UAE North Storage",
+        "latitude": "23.885942",
+        "longitude": "45.079162",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Canada Central Storage",
+        "latitude": "56.130366",
+        "longitude": "-106.34677",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "France Central Storage",
+        "latitude": "46.2276",
+        "longitude": "2.2137",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Germany West Central Storage",
+        "latitude": "51.1657",
+        "longitude": "10.4515",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Japan East Storage",
+        "latitude": "36.2048",
+        "longitude": "138.2529",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Korea Central Storage",
+        "latitude": "35.9078",
+        "longitude": "127.7669",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Norway East Storage",
+        "latitude": "60.4720",
+        "longitude": "8.4689",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "UK South Storage",
+        "latitude": "55.3781",
+        "longitude": "-3.4360",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      },
+
+      {
+        "Point": "Switzerland North Storage",
+        "latitude": "46.8182",
+        "longitude": "8.2275",
+        "size": "small",
+        "icon": "ICONS/Storage.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open Storage": "http://www.google.com/" },
+          { "Open Explorer": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          },
+          {
+            "Data": "https://res.infoq.com/articles/azure-data-lake-analytics-usql/en/resources/azure-data-2-1568098316593.jpg",
+            "Text": "Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,Storage Explorer Description here,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Feature": " Snowflake360",
+    "DescriptionImage": "Images/Slide5.PNG",
+
+    "Points": [
+      {
+        "Point": "ML US Central",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/DeepLearning.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open DigitalTwin Explorer": "http://www.google.com/" },
+          { "Open DigitalTwin": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Feature": "Legal360",
+    "DescriptionImage": "Images/Slide6.PNG",
+
+    "Points": [
+      {
+        "Point": "IOT Hub US Central",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/DigitalTwin.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open DigitalTwin Explorer": "http://www.google.com/" },
+          { "Open DigitalTwin": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Feature": "Sales360",
+    "DescriptionImage": "Images/Slide7.PNG",
+    "Points": [
+      {
+        "Point": "Central India Logic App",
+        "latitude": "33.9391",
+        "longitude": "67.7100",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "North Europe Logic App",
+        "latitude": "41.87194",
+        "longitude": "12.56738",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "South Africa North Logic App",
+        "latitude": "-30.559482",
+        "longitude": "22.937506",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Australia Central Logic App",
+        "latitude": "-25.274398",
+        "longitude": "133.775136",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Central US Logic App",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Brazil South Logic App",
+        "latitude": "-14.235004",
+        "longitude": "-51.92528",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "East Asia Logic App",
+        "latitude": "1.352083",
+        "longitude": "103.819836",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "UAE North Logic App",
+        "latitude": "23.885942",
+        "longitude": "45.079162",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Canada Central Logic App",
+        "latitude": "56.130366",
+        "longitude": "-106.34677",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "France Central Logic App",
+        "latitude": "46.2276",
+        "longitude": "2.2137",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Germany West Central Logic App",
+        "latitude": "51.1657",
+        "longitude": "10.4515",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Japan East Logic App",
+        "latitude": "36.2048",
+        "longitude": "138.2529",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Korea Central Logic App",
+        "latitude": "35.9078",
+        "longitude": "127.7669",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Norway East Logic App",
+        "latitude": "60.4720",
+        "longitude": "8.4689",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "UK South Logic App",
+        "latitude": "55.3781",
+        "longitude": "-3.4360",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      },
+
+      {
+        "Point": "Switzerland North Logic App",
+        "latitude": "46.8182",
+        "longitude": "8.2275",
+        "size": "small",
+        "icon": "ICONS/AzureLogicApp.jpg",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open LogicApp": "http://www.google.com/" },
+          { "Open LogicApp Log": "http://www.google.com/" },
+          { "Open Logic App Telemetry": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          },
+          {
+            "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+            "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          }
+        ]
+      }
+    ]
+  }
+
+]
