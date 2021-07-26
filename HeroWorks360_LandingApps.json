@@ -412,7 +412,7 @@
       "Actions": [
         { "Open IoTHub": "http://www.google.com/" },
         { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "http://www.legal360.azurewebsites.net" }
+        { "Open Dashboard": "https://www.legal360.azurewebsites.net" }
       ],
       "Popup": [
         {
