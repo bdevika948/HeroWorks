@@ -335,15 +335,15 @@
         }
       ]
     }
-    
+
   ],
   "Points": [
     {
       "Point": "Employee360",
-      "latitude": "40.463667",
-      "longitude": "-3.74922",
+      "latitude": "39.833851",
+      "longitude": "-74.871826",
       "size": "medium",
-      "icon": "ICONS/AzureImage.JPG",
+      "icon": "ICONS/Employee360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -373,10 +373,10 @@
     },
     {
       "Point": "ITDesk360",
-      "latitude": "35.86166",
-      "longitude": "104.195397",
+      "latitude": "20.593684",
+      "longitude": "78.96288",
       "size": "medium",
-      "icon": "ICONS/AzureImage.JPG",
+      "icon": "ICONS/ITDesk360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -405,14 +405,14 @@
       "latitude": "37.0902",
       "longitude": "-95.7129",
       "size": "medium",
-      "icon": "ICONS/AWS.jpg",
+      "icon": "ICONS/Legal360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
       "Actions": [
         { "Open IoTHub": "http://www.google.com/" },
         { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "http://www.legal360.azurewebsites.net" }
+        { "Open Dashboard": "https://legal360.azurewebsites.net/" }
       ],
       "Popup": [
         {
@@ -431,10 +431,10 @@
     },
     {
       "Point": "Marketing360",
-      "latitude": "33.93911",
-      "longitude": "67.709953",
+      "latitude": "55.3781",
+      "longitude": "-3.4360",
       "size": "small",
-      "icon": "ICONS/IBM.jpg",
+      "icon": "ICONS/Marketing360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -460,8 +460,8 @@
     },
     {
       "Point": "Production360",
-      "latitude": "60.1785",
-      "longitude": "19.9156",
+      "latitude": "35.86166",
+      "longitude": "104.195397",
       "size": "small",
       "icon": "ICONS/AzureImage.JPG",
       "color": "blue",
@@ -489,10 +489,10 @@
     },
     {
       "Point": "Sales360",
-      "latitude": "41.153332",
-      "longitude": "20.168331",
+      "latitude": "46.227638",
+      "longitude": "2.213749",
       "size": "small",
-      "icon": "ICONS/Snowflake.jpg",
+      "icon": "ICONS/Sales360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -518,8 +518,8 @@
     },
     {
       "Point": "Vendor360",
-      "latitude": "28.033886",
-      "longitude": "1.659626",
+      "latitude": "-14.235004",
+      "longitude": "-51.92528",
       "size": "small",
       "icon": "ICONS/AzureImage.JPG",
       "color": "blue",
@@ -547,8 +547,8 @@
     },
     {
       "Point": "Service360",
-      "latitude": "-14.270972",
-      "longitude": "-170.132217",
+      "latitude": "12.879721",
+      "longitude": "121.774017",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
@@ -576,10 +576,10 @@
     },
     {
       "Point": "Bike360",
-      "latitude": "42.546245",
-      "longitude": "1.601554",
+      "latitude": "51.165691",
+      "longitude": "10.451526",
       "size": "small",
-      "icon": "ICONS/AzureImage.JPG",
+      "icon": "ICONS/Bike360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -605,10 +605,10 @@
     },
     {
       "Point": "Compliance360",
-      "latitude": "46.8182",
-      "longitude": "8.2275",
+      "latitude": "34.052235",
+      "longitude": "-118.243683",
       "size": "small",
-      "icon": "ICONS/AzureLogicApp.jpg",
+      "icon": "ICONS/Compliance360.png",
       "color": "blue",
       "title": "title here",
       "type": "carousel",
@@ -634,8 +634,8 @@
     },
     {
       "Point": "Predict360",
-      "latitude": "55.3781",
-      "longitude": "-3.4360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
