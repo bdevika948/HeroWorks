@@ -1,0 +1,351 @@
+{
+  "Features": [
+    {
+      "Feature": "Velocity",
+      "DescriptionImage": "Images/Slide1.png",
+      "ReferredPoints": [
+        "Production360",
+        "Legal360",
+        "Employee360",
+        "Sales360"
+      ]
+
+    },
+    {
+      "Feature": "Variety",
+      "DescriptionImage": "Images/Slide1.png",
+      "ReferredPoints": [
+        "Production360",
+        "ITDesk360",
+        "Marketing360",
+        "Vendor360"
+      ]
+    }
+  
+  ],
+  "Points": [
+    {
+      "Point": "Employee360",
+      "latitude": "39.833851",
+      "longitude": "-74.871826",
+      "size": "medium",
+      "icon": "ICONS/Employee360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open IoTHub": "http://www.google.com/" },
+        { "Open IoTHub": "http://www.google.co.uk" },
+        { "Open Dashboard": "https://localhost:44316/" }
+      ],
+      "Popup": [
+        {
+
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Data Flow"
+
+        },
+        {
+
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        },
+        {
+          "Type": "Image",
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        }
+      ]
+    },
+    {
+      "Point": "ITDesk360",
+      "latitude": "20.593684",
+      "longitude": "78.96288",
+      "size": "medium",
+      "icon": "ICONS/ITDesk360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open IoTHub": "http://www.google.com/" },
+        { "Open IoTHub": "http://www.google.co.uk" },
+        { "Open Dashboard": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        },
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        },
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        }
+      ]
+    },
+    {
+      "Point": "Legal360",
+      "latitude": "37.0902",
+      "longitude": "-95.7129",
+      "size": "medium",
+      "icon": "ICONS/Legal360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open IoTHub": "http://www.google.com/" },
+        { "Open IoTHub": "http://www.google.co.uk" },
+        { "Open Dashboard": "https://legal360.azurewebsites.net/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        },
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        },
+        {
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        }
+      ]
+    },
+    {
+      "Point": "Marketing360",
+      "latitude": "55.3781",
+      "longitude": "-3.4360",
+      "size": "small",
+      "icon": "ICONS/Marketing360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Production360",
+      "latitude": "35.86166",
+      "longitude": "104.195397",
+      "size": "small",
+      "icon": "ICONS/AzureImage.JPG",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Sales360",
+      "latitude": "46.227638",
+      "longitude": "2.213749",
+      "size": "small",
+      "icon": "ICONS/Sales360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Vendor360",
+      "latitude": "-14.235004",
+      "longitude": "-51.92528",
+      "size": "small",
+      "icon": "ICONS/AzureImage.JPG",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Service360",
+      "latitude": "12.879721",
+      "longitude": "121.774017",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Bike360",
+      "latitude": "51.165691",
+      "longitude": "10.451526",
+      "size": "small",
+      "icon": "ICONS/Bike360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open Scanner": "http://www.google.com/" },
+        { "Run Scanner Now": "http://www.google.co.uk" },
+        { "Open Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
+      "Point": "Compliance360",
+      "latitude": "34.052235",
+      "longitude": "-118.243683",
+      "size": "small",
+      "icon": "ICONS/Compliance360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open LogicApp": "http://www.google.com/" },
+        { "Open LogicApp Log": "http://www.google.com/" },
+        { "Open Logic App Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Predict360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Actions": [
+        { "Open LogicApp": "http://www.google.com/" },
+        { "Open LogicApp Log": "http://www.google.com/" },
+        { "Open Logic App Telemetry": "http://www.google.co.in" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    }
+  ]
+}
