@@ -348,7 +348,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open IoTHub": "http://www.google.com/" },
+        { "Open Employee360": "https://localhost:44399/Employee360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
         { "Open Dashboard": "https://localhost:44316/" }
       ],
