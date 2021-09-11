@@ -348,7 +348,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open Employee360": "https://localhost:44399/Employee360/Introduction" },
+        { "Open Employee360": "https://localhost:44399/Employee360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
         { "Open Dashboard": "https://localhost:44316/" }
       ],
@@ -381,7 +381,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open IoTHub": "http://www.google.com/" },
+        { "Open ITdesk360": "https://localhost:44399/ITDesk360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
         { "Open Dashboard": "http://www.google.co.in" }
       ],
@@ -410,7 +410,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open IoTHub": "http://www.google.com/" },
+        { "Open Legal360": "https://localhost:44399/Legal360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
         { "Open Dashboard": "https://legal360.azurewebsites.net/" }
       ],
@@ -439,7 +439,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
+        { "Open Marketing360": "https://localhost:44399/Marketing360/App" },
         { "Run Scanner Now": "http://www.google.co.uk" },
         { "Open Telemetry": "http://www.google.co.in" }
       ],
@@ -468,7 +468,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
+        { "Open Production360": "https://localhost:44399/Production360/App" },
         { "Run Scanner Now": "http://www.google.co.uk" },
         { "Open Telemetry": "http://www.google.co.in" }
       ],
@@ -497,7 +497,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
+        { "Open Sales360": "https://localhost:44399/Sales360/ConnectionDiagram" },
         { "Run Scanner Now": "http://www.google.co.uk" },
         { "Open Telemetry": "http://www.google.co.in" }
       ],
@@ -526,7 +526,7 @@
       "title": "title here",
       "type": "carousel",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
+        { "Open Vendor360": "https://localhost:44399/Vendor360/ConnectionDiagram" },
         { "Run Scanner Now": "http://www.google.co.uk" },
         { "Open Telemetry": "http://www.google.co.in" }
       ],
