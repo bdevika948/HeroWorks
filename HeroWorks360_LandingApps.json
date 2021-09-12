@@ -471,11 +471,6 @@
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Product.png",
           "Text": "Marketing360 Product"
-        },
-        {
-          "Type": "Image",
-          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
         }
       ]
     },
@@ -495,16 +490,24 @@
       ],
       "Popup": [
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-App.png",
+          "Text": "Production360 Graph Landing"
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-WorkOrder.png",
+          "Text": "Production360 WorkOrder"
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-ScrapReason.png",
+          "Text": "Production360 ScrapReason"
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Location.png",
+          "Text": "Production360 Location "
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Product.png",
+          "Text": "Production360 Product"
         }
       ]
     },
