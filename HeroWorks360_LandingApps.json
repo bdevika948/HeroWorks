@@ -433,11 +433,11 @@
       "Popup": [
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          "Text": "Legal360 Graph Landing"
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Grid.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          "Text": "Legal360 LegalCase Grid"
         }
       ]
     },
@@ -471,6 +471,11 @@
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Product.png",
           "Text": "Marketing360 Product"
+        },
+        {
+          "Type": "Image",
+          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
         }
       ]
     },
