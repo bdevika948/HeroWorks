@@ -5,13 +5,13 @@
       "DescriptionImage": "Images/Slide1.png",
       "SubFeatures": [
         {
-          "SubFeature": "Hot",
+          "SubFeature": "Velocity-Hot",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
-          "SubFeature": "Warm",
+          "SubFeature": "Velocity-Warm",
           "Description" :"Warm Description or Tooltip here..",
           "ReferredPoints": [
             "Legal360",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "SubFeature": "Cold",
+          "SubFeature": "Velocity-Cold",
           "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360",
@@ -30,21 +30,21 @@
           ]
         },
         {
-          "SubFeature": "RealTime",
+          "SubFeature": "Velocity-RealTime",
           "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Bike360"
           ]
         },
         {
-          "SubFeature": "Batch",
+          "SubFeature": "Velocity-Batch",
           "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
-          "SubFeature": "Archive",
+          "SubFeature": "Velocity-Archive",
           "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
