@@ -12,6 +12,7 @@
         },
         {
           "SubFeature": "Warm",
+          "Description" :"Warm Description or Tooltip here..",
           "ReferredPoints": [
             "Legal360",
             "Vendor360",
@@ -22,6 +23,7 @@
         },
         {
           "SubFeature": "Cold",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360",
             "Service360"
@@ -29,18 +31,21 @@
         },
         {
           "SubFeature": "RealTime",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Bike360"
           ]
         },
         {
           "SubFeature": "Batch",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
           "SubFeature": "Archive",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
@@ -55,54 +60,63 @@
       "SubFeatures": [
         {
           "SubFeature": "Structured",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360"
           ]
         },
         {
           "SubFeature": "Semi-Structured",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Binary",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Text",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Vendor360"
           ]
         },
         {
           "SubFeature": "Image",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "Video",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
-          "SubFeature": "Json",
+          "SubFeature": "JSON",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "XML",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "OCR",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
@@ -115,18 +129,21 @@
       "SubFeatures": [
         {
           "SubFeature": "100 Million Rows",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
           "SubFeature": "20000 columns",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "1 Million Text",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
@@ -139,6 +156,7 @@
       "SubFeatures": [
         {
           "SubFeature": "SQL",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360",
             "Sales360",
@@ -148,6 +166,7 @@
         },
         {
           "SubFeature": "NoSQL",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360",
             "Marketing360",
@@ -160,36 +179,42 @@
         },
         {
           "SubFeature": "Graph",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
           "SubFeature": "Hadoop Compliant",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
         },
         {
           "SubFeature": "OpenSource",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Bike360"
           ]
         },
         {
           "SubFeature": "Excel / CSV / Text",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Binary/ Video / Audio / Images",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Vendor360"
           ]
         },
         {
           "SubFeature": "Text",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360"
           ]
@@ -202,6 +227,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Azure",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Employee360",
             "Vendor360"
@@ -209,54 +235,63 @@
         },
         {
           "SubFeature": "Oracle",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
           "SubFeature": "GCP",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
         },
         {
           "SubFeature": "IBM",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "AWS",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Snowflake",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Databricks",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
         },
         {
           "SubFeature": "Gsuite",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "O365",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Elephant DB",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Production360"
           ]
@@ -269,18 +304,21 @@
       "SubFeatures": [
         {
           "SubFeature": "GDPR",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
           "SubFeature": "PCI",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "PII",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
@@ -293,12 +331,14 @@
       "SubFeatures": [
         {
           "SubFeature": "Twitter",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
         },
         {
           "SubFeature": "Linkedin",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Compliance360"
           ]
@@ -311,24 +351,28 @@
       "SubFeatures": [
         {
           "SubFeature": "In-Memory",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Virtualized",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "Cache",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "ITDesk360"
           ]
         },
         {
           "SubFeature": "CDN",
+          "Description" :"Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Service360"
           ]
@@ -347,6 +391,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Employee360": "https://localhost:44399/Employee360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
@@ -396,6 +441,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open ITdesk360": "https://localhost:44399/ITDesk360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
@@ -425,6 +471,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Legal360": "https://localhost:44399/Legal360/App" },
         { "Open IoTHub": "http://www.google.co.uk" },
@@ -450,6 +497,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Marketing360": "https://localhost:44399/Marketing360/App" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -483,6 +531,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Production360": "https://localhost:44399/Production360/App" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -520,6 +569,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Sales360": "https://localhost:44399/Sales360/ConnectionDiagram" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -549,6 +599,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Vendor360": "https://localhost:44399/Vendor360/ConnectionDiagram" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -578,6 +629,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Scanner": "http://www.google.com/" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -607,6 +659,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open Scanner": "http://www.google.com/" },
         { "Run Scanner Now": "http://www.google.co.uk" },
@@ -636,6 +689,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open LogicApp": "http://www.google.com/" },
         { "Open LogicApp Log": "http://www.google.com/" },
@@ -665,6 +719,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
       "Actions": [
         { "Open LogicApp": "http://www.google.com/" },
         { "Open LogicApp Log": "http://www.google.com/" },
