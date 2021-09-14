@@ -434,7 +434,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their ITDesk360 system which having 2 primary modules like ticketing and analytics",
+      "Description" :"QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
         { "Go To ITdesk360 Landing": "https://localhost:44399/ITDesk360/App" },
         { "Go To ITdesk360 Analytics": "https://localhost:44399/ITDesk360/Analytics" }
@@ -442,7 +442,7 @@
       "Popup": [
         {
           "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          "Text": "QuestMotors has got their ITDesk360 system which having 2 primary modules like ticketing and analytics"
         },
         {
           "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
@@ -463,7 +463,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their Legal360 system which having 2 primary modules like LegalCase and analytics",
+      "Description" :"QuestMotors has an internal ticketing system to manage all their infrastructure powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
         { "Go To Legal360 Landing": "https://localhost:44399/Legal360/App" },
         { "Go To Legal360 Analytics": "https://localhost:44399/Legal360/Analytics" }
@@ -471,7 +471,7 @@
       "Popup": [
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
-          "Text": "Legal360 Graph Landing"
+          "Text": "QuestMotors has got their Legal360 system which having 2 primary modules like legal case, notifications and analytics"
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Grid.png",
@@ -488,7 +488,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their Marketing360 system which having 4 primary modules like Leads opportunities, channel ,product and analytics",
+      "Description" :"QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
         { "Go To Marketing360 Landing": "https://localhost:44399/Marketing360/App" },
         { "Go To Marketing360 Analytics": "https://localhost:44399/Marketing360/Analytics" }
@@ -496,7 +496,7 @@
       "Popup": [
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-App.png",
-          "Text": "Marketing360 Graph Landing "
+          "Text": "QuestMotors has got their Marketing360 system which having 4 primary modules like Leads opportunities, channel, product and analytics"
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Lead.png",
@@ -521,7 +521,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their Production360 system which having 5 primary modules like work order ,routing ,scrap reason,location and analytics",
+      "Description" :"QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
       "Actions": [
         { "Go To Production360 Landing": "https://localhost:44399/Production360/App" },
         { "Go To Production360 Analytics": "https://localhost:44399/Production360/Analytics" }
@@ -529,7 +529,7 @@
       "Popup": [
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-App.png",
-          "Text": "Production360 Graph Landing"
+          "Text": "QuestMotors has got their Production360 system which having 5 primary modules like work order ,work order routing ,scrap reason, location and analytics"
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-WorkOrder.png",
@@ -558,7 +558,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their Sales360 system which having 2 primary modules like sales order details and analytics",
+      "Description" :"QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
       "Actions": [
         { "Go To Sales360 Landing": "https://localhost:44399/Sales360/ConnectionDiagram" },
         { "Go To Sales360 Analytics": "https://localhost:44399/Sales360/Analytics" }
@@ -566,7 +566,7 @@
       "Popup": [
         {
           "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Text": "QuestMotors has got their Sales360 system which having 3 primary modules like sales order details , sales reason and analytics"
         },
         {
           "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -587,7 +587,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has got  their Vendor360 system which having 2 primary modules like purchasing order,vendor,shipping and analytics",
+      "Description" :"QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, PO’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
         { "Go To Vendor360 Landing": "https://localhost:44399/Vendor360/ConnectionDiagram" },
         { "Go To Vendor360 Analytics": "https://localhost:44399/Vendor360/Analytics" }
@@ -595,7 +595,7 @@
       "Popup": [
         {
           "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Text": "QuestMotors has got their Vendor360 system which having 3 primary modules like purchasing order, vendor and shipping."
         },
         {
           "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -645,7 +645,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description" :"Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
         { "Go To Bike360 Landing": "http://www.google.com/" },
         { "Go To Bike360 Analytics": "http://www.google.com/" }
