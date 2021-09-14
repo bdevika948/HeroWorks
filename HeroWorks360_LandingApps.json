@@ -404,19 +404,19 @@
         },
          {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-          "Text": "The Employee module has various attributes like Employee Name ,Job Title,Organization level etc. and the user can create , update and delete employees here"
+          "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-          "Text": "The Department module has various attributes like department names,group name and the user can create update delete departments here"
+          "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shift.png",
-          "Text": "The Shift module has various attributes like shift name,start time,end time and the user can create update delete shifts here"
+          "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shift.png",
-          "Text": "The Job Candidate module has various attributes like Candidate id , resume and the user can create update delete candidates here"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
+          "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
         },
         {
           "Type": "Image",
