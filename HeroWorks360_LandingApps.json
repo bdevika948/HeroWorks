@@ -12,7 +12,7 @@
         },
         {
           "SubFeature": "Warm",
-          "Description" :"Warm Description or Tooltip here..",
+          "Description" :"Warm Description or Tooltip here...",
           "ReferredPoints": [
             "Legal360",
             "Vendor360",
