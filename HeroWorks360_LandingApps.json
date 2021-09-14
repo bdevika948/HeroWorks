@@ -393,9 +393,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Employee360": "https://localhost:44399/Employee360/App" },
-        { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "https://localhost:44316/" }
+        { "Go To Employee360 Landing": "https://localhost:44399/Employee360/App" },
+        { "Go To Employee360 Analytics": "https://localhost:44399/Employee360/Analytics" }
       ],
       "Popup": [
         {
@@ -443,9 +442,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open ITdesk360": "https://localhost:44399/ITDesk360/App" },
-        { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "http://www.google.co.in" }
+        { "Go To ITdesk360 Landing": "https://localhost:44399/ITDesk360/App" },
+        { "Go To ITdesk360 Analytics": "https://localhost:44399/ITDesk360/Analytics" }
       ],
       "Popup": [
         {
@@ -473,9 +471,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Legal360": "https://localhost:44399/Legal360/App" },
-        { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "https://legal360.azurewebsites.net/" }
+        { "Go To Legal360 Landing": "https://localhost:44399/Legal360/App" },
+        { "Go To Legal360 Analytics": "https://localhost:44399/Legal360/Analytics" }
       ],
       "Popup": [
         {
@@ -499,10 +496,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Marketing360": "https://localhost:44399/Marketing360/App" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
-      ],
+        { "Go To Marketing360 Landing": "https://localhost:44399/Marketing360/App" },
+      { "Go To Marketing360 Analytics": "https://localhost:44399/Marketing360/Analytics" }
       "Popup": [
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-App.png",
@@ -533,9 +528,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Production360": "https://localhost:44399/Production360/App" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
+        { "Go To Production360": "https://localhost:44399/Production360/App" },
+        { "Go To Production360 Analytics": "https://localhost:44399/Production360/Analytics" }
       ],
       "Popup": [
         {
@@ -571,9 +565,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Sales360": "https://localhost:44399/Sales360/ConnectionDiagram" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
+        { "Go To Sales360 Landing": "https://localhost:44399/Sales360/ConnectionDiagram" },
+        { "Go To Sales360 Analytics": "https://localhost:44399/Sales360/Analytics"}
       ],
       "Popup": [
         {
@@ -601,9 +594,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Vendor360": "https://localhost:44399/Vendor360/ConnectionDiagram" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
+        { "Go To Vendor360 Landing": "https://localhost:44399/Vendor360/ConnectionDiagram" },
+        { "Go To Vendor360 Analytics": "https://localhost:44399/Vendor360/Analytics"}
       ],
       "Popup": [
         {
@@ -631,9 +623,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
+        { "Go To Service360 Landing": "http://www.google.com/" },
+        { "Go To Service360 Analytics": "http://www.google.co.uk" }
       ],
       "Popup": [
         {
@@ -661,9 +652,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Scanner": "http://www.google.com/" },
-        { "Run Scanner Now": "http://www.google.co.uk" },
-        { "Open Telemetry": "http://www.google.co.in" }
+        { "Go To Bike360 Landing": "http://www.google.com/" },
+        { "Go To Bike360 Analytics": "http://www.google.co.uk" }
       ],
       "Popup": [
         {
@@ -691,9 +681,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open LogicApp": "http://www.google.com/" },
-        { "Open LogicApp Log": "http://www.google.com/" },
-        { "Open Logic App Telemetry": "http://www.google.co.in" }
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
       ],
       "Popup": [
         {
@@ -721,9 +710,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open LogicApp": "http://www.google.com/" },
-        { "Open LogicApp Log": "http://www.google.com/" },
-        { "Open Logic App Telemetry": "http://www.google.co.in" }
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
       ],
       "Popup": [
         {
