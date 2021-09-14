@@ -393,9 +393,8 @@
       "type": "carousel",
       "Description" :"Point Description or Tooltip here...",
       "Actions": [
-        { "Open Employee360": "https://localhost:44399/Employee360/App" },
-        { "Open IoTHub": "http://www.google.co.uk" },
-        { "Open Dashboard": "https://localhost:44316/" }
+        { "Go To Employee360 Landing": "https://localhost:44399/Employee360/App" },
+        { "Go To Employee360 Analytics": "https://localhost:44399/Employee360/Analytics" }
       ],
       "Popup": [
         {
