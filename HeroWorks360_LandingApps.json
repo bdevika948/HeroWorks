@@ -463,7 +463,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has an internal ticketing system to manage all their infrastructure powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
+      "Description" :"QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
         { "Go To Legal360 Landing": "https://localhost:44399/Legal360/App" },
         { "Go To Legal360 Analytics": "https://localhost:44399/Legal360/Analytics" }
