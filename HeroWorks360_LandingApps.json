@@ -500,15 +500,15 @@
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Leads.png",
-          "Text": "Marketing360 Leads"
+          "Text": "The Leads module has attributes like lead id, product name, channel name, commute distance etc. "
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Channels.png",
-          "Text": "Marketing360 Channel"
+          "Text": "The channel module has 3 attributes like channel id, name and description."
         },
         {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Products.png",
-          "Text": "Marketing360 Product"
+          "Text": "The product module has attributes like product name, color, size, weight etc."
         }
       ]
     },
