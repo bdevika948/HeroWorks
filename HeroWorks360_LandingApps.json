@@ -418,6 +418,10 @@
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
           "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
         },
+         {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
+          "Text": "The Analytics module shows various metrics like job candidate details."
+        },
         {
           "Type": "Image",
           "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
