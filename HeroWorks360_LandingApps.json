@@ -528,24 +528,28 @@
       ],
       "Popup": [
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-App.png",
-          "Text": "QuestMotors has got their Production360 system which having 5 primary modules like work order ,work order routing ,scrap reason, location and analytics"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
+          "Text": "QuestMotors has got their Production360 system which having 5 primary modules like work order ,work order routing ,product, scrap reason, location and analytics"
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-WorkOrder.png",
-          "Text": "Production360 WorkOrder"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-WorkOrders.png",
+          "Text": "The WorkOrder module has attributes like work order id, product id, order quantity, stocked quantity, scrapped quantity, due date etc."
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-ScrapReason.png",
-          "Text": "Production360 ScrapReason"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Products.png",
+          "Text": "The product module has attributes like product id, name, color, reorder, safety point, standard cost and date."
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Location.png",
-          "Text": "Production360 Location "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-ScrapReasons.png",
+          "Text": "The scrap reason module has attributes like scrap reason id, name and date."
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Product.png",
-          "Text": "Production360 Product"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Locations.png",
+          "Text": "The location module has attributes like location id, name, cost rate, availability and date."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Analytics.png",
+          "Text": "The analytics module shows various product metrics as per workorder and workorder routing."
         }
       ]
     },
