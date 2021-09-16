@@ -436,8 +436,8 @@
       "type": "carousel",
       "Description" :"QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
-        { "Go To ITdesk360 Landing": "https://localhost:44399/ITDesk360/App" },
-        { "Go To ITdesk360 Analytics": "https://localhost:44399/ITDesk360/Analytics" }
+        { "Go To ITDesk360 Landing": "https://localhost:44399/ITDesk360/App" },
+        { "Go To ITDesk360 Analytics": "https://localhost:44399/ITDesk360/Analytics" }
       ],
       "Popup": [
         {
