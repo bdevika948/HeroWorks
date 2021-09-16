@@ -577,16 +577,20 @@
       ],
       "Popup": [
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
           "Text": "QuestMotors has got their Sales360 system which having 3 primary modules like sales order details , sales reason and analytics"
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data":"https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-SalesOrder.png",
+          "Text": "The sales order module have attributes like sales order id, customer id, purchase order id, ship method, account number, tax, freight charges etc."
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-SalesReason.png",
+          "Text": "The sales reason module has attributes like sales reason name, reason type  and date."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-Analytics.png",
+          "Text": "The Analytics module shows about various product sales metrics."
         }
       ]
     },
