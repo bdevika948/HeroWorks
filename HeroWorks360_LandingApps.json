@@ -441,16 +441,16 @@
       ],
       "Popup": [
         {
-          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
           "Text": "QuestMotors has got their ITDesk360 system which having 2 primary modules like ticketing and analytics"
         },
         {
-          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Tickets.png",
+          "Text": "The ticketing module helps to raise tickets having attributes like RCA, RCA category,assignee name, email address, title, user  query and status."
         },
         {
-          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Analytics.png",
+          "Text": "The analytics module shows count ticketing count by an end user."
         }
       ]
     },
