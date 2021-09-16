@@ -610,16 +610,24 @@
       ],
       "Popup": [
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
           "Text": "QuestMotors has got their Vendor360 system which having 3 primary modules like purchasing order, vendor and shipping."
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-PurchaseOrder.png",
+          "Text": "The purchase order module has attributes like purchase order id, vendor id, shipping id,tax amount, freight etc."
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-Vendor.png",
+          "Text": "The Vendor module has attributes like account number, name, credit rating, preferred vendor flag and purchasing website url etc."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-Shipping.png",
+          "Text": "The shipping module has attributes like shipping id, name, ship base, ship rate and date."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-Analytics.png",
+          "Text": "The Analytics module shows various purchase order metrics."
         }
       ]
     },
