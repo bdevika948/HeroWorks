@@ -478,8 +478,12 @@
           "Text": "QuestMotors has got their Legal360 system which having 2 primary modules like legal case, notifications and analytics"
         },
         {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Grid.png",
-          "Text": "Legal360 LegalCase Grid"
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-LegalCase.png",
+          "Text": "The Legal Case module has attributes like legal case id, legal issues, responses, status and priority."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Analytics.png",
+          "Text": "The Legal Case analytics module shows various legace case metrics like status by id."
         }
       ]
     },
