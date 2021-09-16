@@ -676,16 +676,16 @@
       ],
       "Popup": [
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
+          "Text": "Bike360 customer desk module chat bot to get resolution for the queries asked."
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-MyBike.png",
+          "Text": "Bike360 allows user to know the status of the bike like location, spare parts wear tear, fuel and availanility."
         },
         {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-Planatrip.png",
+          "Text": "Bike360 helps user to plan a trip giving all the possible options available."
         }
       ]
     },
