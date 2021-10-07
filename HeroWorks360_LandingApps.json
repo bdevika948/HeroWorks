@@ -393,7 +393,7 @@
       "type": "carousel",
       "Description" :"QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
-        { "Go To Employee360 Landing": "https://questmotorsenterprise.azurewebsites.net/Employee360/ModuleLanding" },
+        { "Go To Employee360 Landing": "https://questmotorsenterprise.azurewebsites.net/Employee360/Landing" },
         { "Go To Employee360 Analytics": "https://questmotorsenterprise.azurewebsites.net/Employee360/Analytics" }
       ],
       "Popup": [
@@ -498,7 +498,7 @@
       "type": "carousel",
       "Description" :"QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
-        { "Go To Marketing360 Landing": "https://questmotorsenterprise.azurewebsites.net/Marketing360/ModuleLanding" },
+        { "Go To Marketing360 Landing": "https://questmotorsenterprise.azurewebsites.net/Marketing360/Landing" },
         { "Go To Marketing360 Analytics": "https://questmotorsenterprise.azurewebsites.net/Marketing360/Analytics" }
       ],
       "Popup": [
