@@ -6,6 +6,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Hot",
+           "Description" :"Hot Description or Tooltip here...",
           "ReferredPoints": [
             "Production360"
           ]
