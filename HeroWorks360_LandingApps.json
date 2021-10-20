@@ -2,7 +2,7 @@
   "Features": [
     {
       "Feature": "Velocity",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Hot",
@@ -57,7 +57,7 @@
     },
     {
       "Feature": "Variety",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/Variety.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Structured",
@@ -126,7 +126,7 @@
     },
     {
       "Feature": "Volume - BigData",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/Volume.JPG",
       "SubFeatures": [
         {
           "SubFeature": "100 Million Rows",
@@ -153,7 +153,7 @@
     },
     {
       "Feature": "Database Types",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/DatabaseTypes.JPG",
       "SubFeatures": [
         {
           "SubFeature": "SQL",
@@ -224,7 +224,7 @@
     },
     {
       "Feature": "Poly / Hybrid Cloud",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/PolyHybridCloud.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Azure",
@@ -301,7 +301,7 @@
     },
     {
       "Feature": "Compliance",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/Compliance.JPG",
       "SubFeatures": [
         {
           "SubFeature": "GDPR",
