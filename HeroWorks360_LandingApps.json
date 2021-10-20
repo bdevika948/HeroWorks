@@ -2,7 +2,7 @@
   "Features": [
     {
       "Feature": "Velocity",
-      "DescriptionImage": "Images/Velocity2.JPG",
+      "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Hot",
@@ -328,7 +328,7 @@
     },
     {
       "Feature": "Social Media",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/SocialMedia.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Twitter",
@@ -348,7 +348,7 @@
     },
     {
       "Feature": "Consumption",
-      "DescriptionImage": "Images/Slide1.png",
+      "DescriptionImage": "Images/Consumption.JPG",
       "SubFeatures": [
         {
           "SubFeature": "In-Memory",
