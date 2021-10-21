@@ -6,7 +6,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Hot",
-           "Description" :"Hot Description or Tooltip here...",
+           "Description" :"Data Speed : Millions of messages per second,Data Volume : Small / Medium packets,Data Systems : Bike360 , Device360",
           "ReferredPoints": [
             "Production360"
           ]
