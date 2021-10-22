@@ -668,6 +668,35 @@
       ]
     },
     {
+      "Point": "Service360",
+      "latitude": "12.879721",
+      "longitude": "121.774017",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Service360 Landing": "http://www.google.com/" },
+        { "Go To Service360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        },
+        {
+          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
+          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
+        }
+      ]
+    },
+    {
       "Point": "Bike360",
       "latitude": "51.165691",
       "longitude": "10.451526",
