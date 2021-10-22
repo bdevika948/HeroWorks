@@ -1,3 +1,4 @@
+
 {
   "Features": [
     {
@@ -668,35 +669,6 @@
       ]
     },
     {
-      "Point": "Service360",
-      "latitude": "12.879721",
-      "longitude": "121.774017",
-      "size": "small",
-      "icon": "ICONS/GCP.jpg",
-      "color": "blue",
-      "title": "title here",
-      "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
-      "Actions": [
-        { "Go To Service360 Landing": "http://www.google.com/" },
-        { "Go To Service360 Analytics": "http://www.google.com/" }
-      ],
-      "Popup": [
-        {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
-        },
-        {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
-        },
-        {
-          "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
-          "Text": "Risk Scanner Description here..risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here .risk Scanner Description here "
-        }
-      ]
-    },
-    {
       "Point": "Bike360",
       "latitude": "51.165691",
       "longitude": "10.451526",
@@ -727,6 +699,35 @@
     },
     {
       "Point": "Compliance360",
+      "latitude": "34.052235",
+      "longitude": "-118.243683",
+      "size": "small",
+      "icon": "ICONS/Compliance360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description" :"Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Device360",
       "latitude": "34.052235",
       "longitude": "-118.243683",
       "size": "small",
