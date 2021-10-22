@@ -163,32 +163,31 @@
       "SubFeatures": [
         {
           "SubFeature": "SQL",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
           "ReferredPoints": [
             "Employee360",
             "Sales360",
             "Vendor360",
+            "Marketing360",
+            "Production360",
             "Compliance360"
           ]
         },
         {
           "SubFeature": "NoSQL",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
           "ReferredPoints": [
+            "Service360",
             "Legal360",
-            "Marketing360",
-            "ITDesk360",
-            "Predict360",
-            "Production360",
-            "Bike360",
-            "Predict360"
+            "Marketing360"
           ]
         },
         {
           "SubFeature": "Graph",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : JSON-Data Storage :Azure IoT-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-            "Compliance360"
+            "Bike360",
+            "Device360"
           ]
         },
         {
@@ -200,30 +199,36 @@
         },
         {
           "SubFeature": "OpenSource",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
           "ReferredPoints": [
-            "Bike360"
+            "Legal360",
+            "Production360"
           ]
         },
         {
           "SubFeature": "Excel / CSV / Text",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format :  Excel , CSV  ,JSON-Data Storage : Google Sheets , Google Forms-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Binary/ Video / Audio / Images",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : MP3 , MP4 , AVI , JPG , JPEG , PNG , AVRO , Parquet , ZIP-Data Storage : Azure ADLS , AWS S3 Storage , GCP Storage , Azure CosmosDB , Google Sheets-Data Systems : Employee360 , Legal360 ,  Sales360 , Vendor360 , Service360",
           "ReferredPoints": [
-            "Vendor360"
+           "Employee360" , 
+            "Legal360" ,  
+            "Sales360" , 
+            "Vendor360" , 
+            "Service360"
+
           ]
         },
         {
           "SubFeature": "Text",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : text files , Sheets-Data Storage : Google Sheets-Data Systems : Service360",
           "ReferredPoints": [
-            "Employee360"
+            "Service360"
           ]
         }
       ]
@@ -234,7 +239,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Azure",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
             "Employee360",
             "Vendor360"
@@ -242,63 +247,63 @@
         },
         {
           "SubFeature": "Oracle",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : Oracle Autonomous DB-Data System: Complaince360",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
           "SubFeature": "GCP",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud :  GCP Firestore , GCP BigQuery-Data System: Bike360",
           "ReferredPoints": [
-            "Predict360"
+            "Bike360"
           ]
         },
         {
           "SubFeature": "IBM",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : IBM DB2 , IBM Cloudant-Data System: Marketing360",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "AWS",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : AWS Dynamo DB-Data System: Legal360",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Snowflake",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : Snowflake -Data System: Sales360",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Databricks",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : Azure Databricks-Data System:  Social360",
           "ReferredPoints": [
-            "Predict360"
+            "Social360"
           ]
         },
         {
           "SubFeature": "Gsuite",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : Google Sheets , Google Forms-Data System:  Service360 ",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "O365",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud : -Data System: Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Elephant DB",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Criteria :-Cloud :  Elephant Postgres-Data System: Production360",
           "ReferredPoints": [
             "Production360"
           ]
@@ -311,21 +316,22 @@
       "SubFeatures": [
         {
           "SubFeature": "GDPR",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
-            "Production360"
-          ]
-        },
-        {
-          "SubFeature": "PCI",
-          "Description" :"Subfeature Description or Tooltip here...",
-          "ReferredPoints": [
+            "Employee360",
             "Legal360"
           ]
         },
         {
+          "SubFeature": "PCI",
+          "Description" :"Category :-Stakeholders :-Data Systems : Sales360",
+          "ReferredPoints": [
+            "Sales360"
+          ]
+        },
+        {
           "SubFeature": "PII",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Category :-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Marketing360"
           ]
@@ -338,16 +344,16 @@
       "SubFeatures": [
         {
           "SubFeature": "Twitter",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
-            "Predict360"
+            "Social360"
           ]
         },
         {
           "SubFeature": "Linkedin",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Collected : Company Information , Profiles-Data Systems :Social360",
           "ReferredPoints": [
-            "Compliance360"
+            "Social360"
           ]
         }
       ]
@@ -358,28 +364,28 @@
       "SubFeatures": [
         {
           "SubFeature": "In-Memory",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Virtualized",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "Cache",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "ITDesk360"
           ]
         },
         {
           "SubFeature": "CDN",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Service360"
           ]
