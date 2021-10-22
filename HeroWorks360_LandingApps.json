@@ -17,7 +17,6 @@
           "SubFeature": "Warm",
           "Description" :"Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
-            "Marketing360",
             "Social360",
             "Production360",
             "Service360",
