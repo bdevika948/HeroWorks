@@ -67,65 +67,65 @@
       "SubFeatures": [
         {
           "SubFeature": "Structured",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
           "ReferredPoints": [
             "Employee360"
           ]
         },
         {
           "SubFeature": "Semi-Structured",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Binary",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : Parquet , Avro , Zip-Data Volume : In MB-Data Systems : Production360",
+          "ReferredPoints": [
+            "Production360"
+          ]
+        },
+        {
+          "SubFeature": "Text",
+          "Description" :"Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
-          "SubFeature": "Text",
-          "Description" :"Subfeature Description or Tooltip here...",
-          "ReferredPoints": [
-            "Vendor360"
-          ]
-        },
-        {
           "SubFeature": "Image",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : JPEG , PNG-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
-            "Marketing360"
+            "Service360"
           ]
         },
         {
-          "SubFeature": "Video",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "SubFeature": "Video / Audio",
+          "Description" :"Data Format : MP3 , AVI , MP4-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
-            "Legal360"
+            "Service360"
           ]
         },
         {
           "SubFeature": "JSON",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
-            "Legal360"
+            "Service360"
           ]
         },
         {
           "SubFeature": "XML",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : XML-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "OCR",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Format : OCR-Data Volume : In MB-Data Systems :Service360",
           "ReferredPoints": [
-            "Compliance360"
+            "Service360"
           ]
         }
       ]
