@@ -8,23 +8,25 @@
           "SubFeature": "Hot",
            "Description" :"Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-            "Production360"
+            "Bike360",
+            "Device360"
           ]
         },
         {
           "SubFeature": "Warm",
-          "Description" :"Warm Description or Tooltip here...",
+          "Description" :"Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
-            "Legal360",
+            "Marketing360",
+            "Social360",
+            "Production360",
+            "Service360",
             "Vendor360",
-            "Sales360",
-            "ITDesk360",
-            "Predict360"
+            "Employee360"
           ]
         },
         {
           "SubFeature": "Cold",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
             "Employee360",
             "Service360"
@@ -32,23 +34,27 @@
         },
         {
           "SubFeature": "RealTime",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-            "Bike360"
+            "Bike360",
+            "Device360"
           ]
         },
         {
           "SubFeature": "Batch",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
           "ReferredPoints": [
-            "Compliance360"
+            "Production360"
           ]
         },
         {
           "SubFeature": "Archive",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description" :"Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
           "ReferredPoints": [
-            "Marketing360"
+            "Production360",
+            "Employee360",
+            "Vendor360"
+            
           ]
         }
 
