@@ -21,7 +21,8 @@
             "Service360",
             "Vendor360",
             "Marketing360",
-            "Employee360"
+            "Employee360",
+            "Diversity360"
           ]
         },
         {
@@ -179,7 +180,8 @@
           "ReferredPoints": [
             "Service360",
             "Legal360",
-            "Marketing360"
+            "Marketing360",
+            "Reflect360"
           ]
         },
         {
@@ -849,8 +851,8 @@
     },
     {
       "Point": "Reflect360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "51.213890",
+      "longitude": "-102.462776",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
@@ -907,8 +909,8 @@
     },
     {
       "Point": "Insurance360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "25.276987",
+      "longitude": "55.296249",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
