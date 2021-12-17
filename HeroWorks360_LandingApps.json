@@ -173,7 +173,8 @@
             "Vendor360",
             "Marketing360",
             "Production360",
-            "Compliance360"
+            "Compliance360",
+            "OmniChannel360"
           ]
         },
         {
@@ -968,9 +969,9 @@
       ]
     },
     {
-      "Point": "OmiChannel360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "Point": "OmniChannel360",
+      "latitude": "7.369722",
+      "longitude": "12.354722",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
