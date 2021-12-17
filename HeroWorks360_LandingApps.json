@@ -1,4 +1,3 @@
-
 {
   "Features": [
     {
@@ -7,7 +6,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Hot",
-           "Description" :"Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
+          "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
             "Bike360",
             "Device360"
@@ -15,7 +14,7 @@
         },
         {
           "SubFeature": "Warm",
-          "Description" :"Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
+          "Description": "Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
             "Social360",
             "Production360",
@@ -27,7 +26,7 @@
         },
         {
           "SubFeature": "Cold",
-          "Description" :"Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
+          "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
             "Employee360",
             "Service360"
@@ -35,7 +34,7 @@
         },
         {
           "SubFeature": "RealTime",
-          "Description" :"Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
+          "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
             "Bike360",
             "Device360"
@@ -43,19 +42,19 @@
         },
         {
           "SubFeature": "Batch",
-          "Description" :"Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
+          "Description": "Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
           "SubFeature": "Archive",
-          "Description" :"Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
+          "Description": "Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
           "ReferredPoints": [
             "Production360",
             "Employee360",
             "Vendor360"
-            
+
           ]
         }
 
@@ -68,63 +67,63 @@
       "SubFeatures": [
         {
           "SubFeature": "Structured",
-          "Description" :"Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
+          "Description": "Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
           "ReferredPoints": [
             "Employee360"
           ]
         },
         {
           "SubFeature": "Semi-Structured",
-          "Description" :"Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
+          "Description": "Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Binary",
-          "Description" :"Data Format : Parquet , Avro , Zip-Data Volume : In MB-Data Systems : Production360",
+          "Description": "Data Format : Parquet , Avro , Zip-Data Volume : In MB-Data Systems : Production360",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
           "SubFeature": "Text",
-          "Description" :"Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
+          "Description": "Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Image",
-          "Description" :"Data Format : JPEG , PNG-Data Volume : In MB-Data Systems : Service360",
+          "Description": "Data Format : JPEG , PNG-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Video / Audio",
-          "Description" :"Data Format : MP3 , AVI , MP4-Data Volume : In MB-Data Systems : Service360",
+          "Description": "Data Format : MP3 , AVI , MP4-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "JSON",
-          "Description" :"Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
+          "Description": "Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "XML",
-          "Description" :"Data Format : XML-Data Volume : In MB-Data Systems : Service360",
+          "Description": "Data Format : XML-Data Volume : In MB-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "OCR",
-          "Description" :"Data Format : OCR-Data Volume : In MB-Data Systems :Service360",
+          "Description": "Data Format : OCR-Data Volume : In MB-Data Systems :Service360",
           "ReferredPoints": [
             "Service360"
           ]
@@ -137,21 +136,21 @@
       "SubFeatures": [
         {
           "SubFeature": "100 Million Rows",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Production360"
           ]
         },
         {
           "SubFeature": "20000 columns",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "1 Million Text",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
@@ -164,7 +163,7 @@
       "SubFeatures": [
         {
           "SubFeature": "SQL",
-          "Description" :"Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
+          "Description": "Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
           "ReferredPoints": [
             "Employee360",
             "Sales360",
@@ -176,7 +175,7 @@
         },
         {
           "SubFeature": "NoSQL",
-          "Description" :"Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
+          "Description": "Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
           "ReferredPoints": [
             "Service360",
             "Legal360",
@@ -185,7 +184,7 @@
         },
         {
           "SubFeature": "Graph",
-          "Description" :"Data Format : JSON-Data Storage :Azure IoT-Data Systems : Bike360 , Device360",
+          "Description": "Data Format : JSON-Data Storage :Azure IoT-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
             "Bike360",
             "Device360"
@@ -193,14 +192,14 @@
         },
         {
           "SubFeature": "Hadoop Compliant",
-          "Description" :"Subfeature Description or Tooltip here...",
+          "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
             "Predict360"
           ]
         },
         {
           "SubFeature": "OpenSource",
-          "Description" :"Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
+          "Description": "Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
           "ReferredPoints": [
             "Legal360",
             "Production360"
@@ -208,26 +207,26 @@
         },
         {
           "SubFeature": "Excel / CSV / Text",
-          "Description" :"Data Format :  Excel , CSV  ,JSON-Data Storage : Google Sheets , Google Forms-Data Systems : Service360",
+          "Description": "Data Format :  Excel , CSV  ,JSON-Data Storage : Google Sheets , Google Forms-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Binary/ Video / Audio / Images",
-          "Description" :"Data Format : MP3 , MP4 , AVI , JPG , JPEG , PNG , AVRO , Parquet , ZIP-Data Storage : Azure ADLS , AWS S3 Storage , GCP Storage , Azure CosmosDB , Google Sheets-Data Systems : Employee360 , Legal360 ,  Sales360 , Vendor360 , Service360",
+          "Description": "Data Format : MP3 , MP4 , AVI , JPG , JPEG , PNG , AVRO , Parquet , ZIP-Data Storage : Azure ADLS , AWS S3 Storage , GCP Storage , Azure CosmosDB , Google Sheets-Data Systems : Employee360 , Legal360 ,  Sales360 , Vendor360 , Service360",
           "ReferredPoints": [
-           "Employee360" , 
-            "Legal360" ,  
-            "Sales360" , 
-            "Vendor360" , 
+            "Employee360",
+            "Legal360",
+            "Sales360",
+            "Vendor360",
             "Service360"
 
           ]
         },
         {
           "SubFeature": "Text",
-          "Description" :"Data Format : text files , Sheets-Data Storage : Google Sheets-Data Systems : Service360",
+          "Description": "Data Format : text files , Sheets-Data Storage : Google Sheets-Data Systems : Service360",
           "ReferredPoints": [
             "Service360"
           ]
@@ -240,7 +239,7 @@
       "SubFeatures": [
         {
           "SubFeature": "Azure",
-          "Description" :"Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
+          "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
             "Employee360",
             "Vendor360"
@@ -248,63 +247,63 @@
         },
         {
           "SubFeature": "Oracle",
-          "Description" :"Criteria :-Cloud : Oracle Autonomous DB-Data System: Complaince360",
+          "Description": "Criteria :-Cloud : Oracle Autonomous DB-Data System: Complaince360",
           "ReferredPoints": [
             "Compliance360"
           ]
         },
         {
           "SubFeature": "GCP",
-          "Description" :"Criteria :-Cloud :  GCP Firestore , GCP BigQuery-Data System: Bike360",
+          "Description": "Criteria :-Cloud :  GCP Firestore , GCP BigQuery-Data System: Bike360",
           "ReferredPoints": [
             "Bike360"
           ]
         },
         {
           "SubFeature": "IBM",
-          "Description" :"Criteria :-Cloud : IBM DB2 , IBM Cloudant-Data System: Marketing360",
+          "Description": "Criteria :-Cloud : IBM DB2 , IBM Cloudant-Data System: Marketing360",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "AWS",
-          "Description" :"Criteria :-Cloud : AWS Dynamo DB-Data System: Legal360",
+          "Description": "Criteria :-Cloud : AWS Dynamo DB-Data System: Legal360",
           "ReferredPoints": [
             "Legal360"
           ]
         },
         {
           "SubFeature": "Snowflake",
-          "Description" :"Criteria :-Cloud : Snowflake -Data System: Sales360",
+          "Description": "Criteria :-Cloud : Snowflake -Data System: Sales360",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Databricks",
-          "Description" :"Criteria :-Cloud : Azure Databricks-Data System:  Social360",
+          "Description": "Criteria :-Cloud : Azure Databricks-Data System:  Social360",
           "ReferredPoints": [
             "Social360"
           ]
         },
         {
           "SubFeature": "Gsuite",
-          "Description" :"Criteria :-Cloud : Google Sheets , Google Forms-Data System:  Service360 ",
+          "Description": "Criteria :-Cloud : Google Sheets , Google Forms-Data System:  Service360 ",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "O365",
-          "Description" :"Criteria :-Cloud : -Data System: Service360",
+          "Description": "Criteria :-Cloud : -Data System: Service360",
           "ReferredPoints": [
             "Service360"
           ]
         },
         {
           "SubFeature": "Elephant DB",
-          "Description" :"Criteria :-Cloud :  Elephant Postgres-Data System: Production360",
+          "Description": "Criteria :-Cloud :  Elephant Postgres-Data System: Production360",
           "ReferredPoints": [
             "Production360"
           ]
@@ -317,7 +316,7 @@
       "SubFeatures": [
         {
           "SubFeature": "GDPR",
-          "Description" :"Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
+          "Description": "Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
             "Employee360",
             "Legal360"
@@ -325,14 +324,14 @@
         },
         {
           "SubFeature": "PCI",
-          "Description" :"Category :-Stakeholders :-Data Systems : Sales360",
+          "Description": "Category :-Stakeholders :-Data Systems : Sales360",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "PII",
-          "Description" :"Category :-Stakeholders :-Data Systems :",
+          "Description": "Category :-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Marketing360"
           ]
@@ -345,14 +344,14 @@
       "SubFeatures": [
         {
           "SubFeature": "Twitter",
-          "Description" :"Data Collected : Tweets-Data Systems : Social360",
+          "Description": "Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
             "Social360"
           ]
         },
         {
           "SubFeature": "Linkedin",
-          "Description" :"Data Collected : Company Information , Profiles-Data Systems :Social360",
+          "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
           "ReferredPoints": [
             "Social360"
           ]
@@ -365,28 +364,28 @@
       "SubFeatures": [
         {
           "SubFeature": "In-Memory",
-          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
+          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Sales360"
           ]
         },
         {
           "SubFeature": "Virtualized",
-          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
+          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Marketing360"
           ]
         },
         {
           "SubFeature": "Cache",
-          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
+          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "ITDesk360"
           ]
         },
         {
           "SubFeature": "CDN",
-          "Description" :"Reporting Type:-Stakeholders :-Data Systems :",
+          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
             "Service360"
           ]
@@ -405,7 +404,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
+      "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
         { "Go To Employee360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Landing" },
         { "Go To Employee360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Analytics" }
@@ -416,7 +415,7 @@
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
           "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
         },
-         {
+        {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
           "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
         },
@@ -432,7 +431,7 @@
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
           "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
         },
-         {
+        {
           "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
           "Text": "The Analytics module shows various metrics like job candidate details."
         },
@@ -452,7 +451,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
+      "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
         { "Go To ITDesk360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/ModuleLanding" },
         { "Go To ITDesk360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/Analytics" }
@@ -481,7 +480,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
+      "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
         { "Go To Legal360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/ModuleLanding" },
         { "Go To Legal360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/Analytics" }
@@ -510,7 +509,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
+      "Description": "QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
         { "Go To Marketing360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Marketing360/Landing" },
         { "Go To Marketing360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Marketing360/Analytics" }
@@ -543,7 +542,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
+      "Description": "QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
       "Actions": [
         { "Go To Production360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Production360/ModuleLanding" },
         { "Go To Production360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Production360/Analytics" }
@@ -584,7 +583,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
+      "Description": "QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
       "Actions": [
         { "Go To Sales360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Sales360/ModuleLanding" },
         { "Go To Sales360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Sales360/Analytics" }
@@ -595,7 +594,7 @@
           "Text": "QuestMotors has got their Sales360 system which having 3 primary modules like sales order details , sales reason and analytics"
         },
         {
-          "Data":"https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-SalesOrder.png",
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-SalesOrder.png",
           "Text": "The sales order module have attributes like sales order id, customer id, purchase order id, ship method, account number, tax, freight charges etc."
         },
         {
@@ -617,7 +616,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, PO’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
+      "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, PO’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
         { "Go To Vendor360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Vendor360/ModuleLanding" },
         { "Go To Vendor360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Vendor360/Analytics" }
@@ -654,7 +653,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here...",
       "Actions": [
         { "Go To Service360 Landing": "http://www.google.com/" },
         { "Go To Service360 Analytics": "http://www.google.com/" }
@@ -675,7 +674,7 @@
       ]
     },
     {
-      "Point": "Bike360",
+      "Point": "eBike360",
       "latitude": "51.165691",
       "longitude": "10.451526",
       "size": "small",
@@ -683,7 +682,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
+      "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
         { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/PlanATrip" },
         { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/MyBike" }
@@ -712,7 +711,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here...",
       "Actions": [
         { "Go To Compliance360 Landing": "http://www.google.com/" },
         { "Go To Compliance360 Analytics": "http://www.google.com/" }
@@ -741,7 +740,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here...",
       "Actions": [
         { "Go To Compliance360 Landing": "http://www.google.com/" },
         { "Go To Compliance360 Analytics": "http://www.google.com/" }
@@ -770,7 +769,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here...",
       "Actions": [
         { "Go To Compliance360 Landing": "http://www.google.com/" },
         { "Go To Compliance360 Analytics": "http://www.google.com/" }
@@ -799,7 +798,239 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description" :"Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Diversity360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Reflect360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Diversity360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Insurance360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Experience360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "OmiChannel360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "TravelVerseEWA360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "CovidMonitoring360",
+      "latitude": "-25.274398",
+      "longitude": "133.775136",
+      "size": "small",
+      "icon": "ICONS/GCP.jpg",
+      "color": "blue",
+      "title": "aotmp project here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
       "Actions": [
         { "Go To Predict360 Landing": "http://www.google.com/" },
         { "Go To Predict360 Analytics": "http://www.google.com/" }
