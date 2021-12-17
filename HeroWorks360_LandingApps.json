@@ -22,7 +22,8 @@
             "Vendor360",
             "Marketing360",
             "Employee360",
-            "Diversity360"
+            "Diversity360",
+            "Experience360"
           ]
         },
         {
@@ -938,8 +939,8 @@
     },
     {
       "Point": "Experience360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "-33.918861",
+      "longitude": "18.423300",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
