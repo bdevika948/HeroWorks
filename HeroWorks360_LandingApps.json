@@ -8,7 +8,7 @@
           "SubFeature": "Hot",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-            "Bike360",
+            "eBike360",
             "Device360"
           ]
         },
@@ -36,7 +36,7 @@
           "SubFeature": "RealTime",
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-            "Bike360",
+            "eBike360",
             "Device360"
           ]
         },
@@ -186,7 +186,7 @@
           "SubFeature": "Graph",
           "Description": "Data Format : JSON-Data Storage :Azure IoT-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-            "Bike360",
+            "eBike360",
             "Device360"
           ]
         },
@@ -256,7 +256,7 @@
           "SubFeature": "GCP",
           "Description": "Criteria :-Cloud :  GCP Firestore , GCP BigQuery-Data System: Bike360",
           "ReferredPoints": [
-            "Bike360"
+            "eBike360"
           ]
         },
         {
