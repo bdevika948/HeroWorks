@@ -950,8 +950,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To OmniChannel360 Landing": "https://localhost:44399/OmniChannel360/index.html" },
+        { "Go To OmniChannel360 Analytics": "https://localhost:44399/OmniChannel360/index.html" }
       ],
       "Popup": [
         {
