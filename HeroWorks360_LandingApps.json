@@ -970,8 +970,8 @@
     },
     {
       "Point": "TravelVerseEWA360",
-      "latitude": "-36.848461",
-      "longitude": "174.763336",
+      "latitude": "13.25",
+      "longitude": "-59.56667",
       "size": "small",
       "icon": "ICONS/TravelverseEWA360.PNG",
       "color": "blue",
