@@ -861,7 +861,7 @@
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here.",
       "Actions": [
         { "Go To Reflect360 Landing": "https://localhost:44399/Content/Reflect360/index.html" }
       ],
