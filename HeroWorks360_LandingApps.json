@@ -888,9 +888,9 @@
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
-      "title": "aotmp project here",
+      "title": "project here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
       "Actions": [
         { "Go To Predict360 Landing": "http://www.google.com/" },
         { "Go To Predict360 Analytics": "http://www.google.com/" }
@@ -917,9 +917,9 @@
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
-      "title": "aotmp project here",
+      "title": "project  title here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip  here...",
+      "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings.",
       "Actions": [
         { "Go To Predict360 Landing": "http://www.google.com/" },
         { "Go To Predict360 Analytics": "http://www.google.com/" }
