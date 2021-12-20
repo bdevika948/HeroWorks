@@ -828,7 +828,7 @@
       "latitude": "61.5240",
       "longitude": "105.3188",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/Diversity360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
@@ -856,35 +856,6 @@
       "Point": "Reflect360",
       "latitude": "51.213890",
       "longitude": "-102.462776",
-      "size": "small",
-      "icon": "ICONS/GCP.jpg",
-      "color": "blue",
-      "title": "aotmp project here",
-      "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
-      "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
-      ],
-      "Popup": [
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        },
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        },
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        }
-      ]
-    },
-    {
-      "Point": "Diversity360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
@@ -1002,7 +973,7 @@
       "latitude": "37.09024",
       "longitude": "-95.712891",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/TravelverseEWA360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
