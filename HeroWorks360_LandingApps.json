@@ -689,7 +689,7 @@
       "type": "carousel",
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
-        { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/PlanATrip" },
+        { "Go To Bike360 Landing": "https://localhost:44399/Content/eBike360/light/index.html" },
         { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/MyBike" }
       ],
       "Popup": [
