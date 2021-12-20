@@ -1008,7 +1008,7 @@
       "type": "carousel",
       "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
+        { "Go To Predict360 Landing": "https://www.google.com/" },
         { "Go To Predict360 Analytics": "http://www.google.com/" }
       ],
       "Popup": [
