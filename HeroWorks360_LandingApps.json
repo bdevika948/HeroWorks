@@ -689,8 +689,8 @@
       "type": "carousel",
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
-        { "Go To Bike360 Landing": "https://localhost:44399/Content/eBike360/light/index.html" },
-        { "Go To Bike360 Analytics": "https://localhost:44399/Content/eBike360/light/index.html" }
+        { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" },
+        { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" }
       ],
       "Popup": [
         {
@@ -834,8 +834,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Diversity360 Landing": "https://localhost:44399/Content/Diversity360/index.html" },
-        { "Go To Diversity360 Analytics": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html" }
+        { "Go To Diversity360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/index.html" },
+        { "Go To Diversity360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/SearchDEICompany.html" }
       ],
       "Popup": [
         {
@@ -863,7 +863,7 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here.",
       "Actions": [
-        { "Go To Reflect360 Landing": "https://localhost:44399/Content/Reflect360/index.html" }
+        { "Go To Reflect360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Reflect360/index.html" }
       ],
       "Popup": [
         {
@@ -891,8 +891,8 @@
       "type": "carousel",
       "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
       "Actions": [
-        { "Go To Insurance360 Landing": "https://localhost:44399/Content/Insurance360/light/index.html" },
-        { "Go To Insurance360 Analytics": "https://localhost:44399/Content/Insurance360/Analytics.html" }
+        { "Go To Insurance360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/light/index.html" },
+        { "Go To Insurance360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/Analytics.html" }
       ],
       "Popup": [
         {
@@ -949,8 +949,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To OmniChannel360 Landing": "https://localhost:44399/OmniChannel360/index.html" },
-        { "Go To OmniChannel360 Analytics": "https://localhost:44399/OmniChannel360/index.html" }
+        { "Go To OmniChannel360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" },
+        { "Go To OmniChannel360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" }
       ],
       "Popup": [
         {
@@ -1007,8 +1007,8 @@
       "type": "carousel",
       "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
       "Actions": [
-        { "Go To CovidMonitoring360 Landing": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html" },
-        { "Go To CovidMonitoring360 Analytics": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html" }
+        { "Go To CovidMonitoring360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" },
+        { "Go To CovidMonitoring360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" }
       ],
       "Popup": [
         {
