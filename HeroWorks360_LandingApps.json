@@ -977,8 +977,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Predict360 Landing": "https://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To TravelVerseEWA360 Landing": "https://www.google.com/" },
+        { "Go To TravelVerseEWA360 Analytics": "http://www.google.com/" }
       ],
       "Popup": [
         {
