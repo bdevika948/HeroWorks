@@ -1,17 +1,18 @@
 {
   "Features": [
     {
-      "Feature": "Cloud Serverless",
+      "Feature": "Velocity",
       "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
           "SubFeature": "Hot",
-          "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 , Device360",
+          "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
             "eBike360",
             "Device360",
             "TravelVerseEWA360",
-	    "Azure Functions"
+			"Azure Functions",
+			"GCP Functions"
           ]
         },
         {
@@ -1069,6 +1070,35 @@
           "Type": "Image",
           "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
           "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+        }
+      ]
+    },
+	{
+      "Point": "GCP Functions",
+      "latitude": "20.593684",
+      "longitude": "78.96288",
+      "size": "medium",
+      "icon": "ICONS/ITDesk360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
+      "Actions": [
+        { "Go To ITDesk360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/ModuleLanding" },
+        { "Go To ITDesk360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/Analytics" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
+          "Text": "QuestMotors has got their ITDesk360 system which having 2 primary modules like ticketing and analytics"
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Tickets.png",
+          "Text": "The ticketing module helps to raise tickets having attributes like RCA, RCA category,assignee name, email address, title, user  query and status."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Analytics.png",
+          "Text": "The analytics module shows count ticketing count by an end user."
         }
       ]
     }
