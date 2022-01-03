@@ -27,7 +27,6 @@
             "Service360",
             "Vendor360",
             "Marketing360",
-            "Employee360",
             "Diversity360",
             "Experience360"
           ]
@@ -36,7 +35,6 @@
           "SubFeature": "Cold",
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
-            "Employee360",
             "Service360"
           ]
         },
@@ -60,7 +58,6 @@
           "Description": "Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
           "ReferredPoints": [
             "Production360",
-            "Employee360",
             "Vendor360"
 
           ]
@@ -85,7 +82,6 @@
           "SubFeature": "Semi-Structured",
           "Description": "Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
-            "Legal360"
           ]
         },
         {
@@ -174,7 +170,6 @@
           "SubFeature": "SQL",
           "Description": "Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
           "ReferredPoints": [
-            "Employee360",
             "Sales360",
             "Vendor360",
             "Marketing360",
@@ -188,7 +183,6 @@
           "Description": "Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
           "ReferredPoints": [
             "Service360",
-            "Legal360",
             "Marketing360",
             "Reflect360"
           ]
@@ -212,7 +206,6 @@
           "SubFeature": "OpenSource",
           "Description": "Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
           "ReferredPoints": [
-            "Legal360",
             "Production360"
           ]
         },
@@ -227,8 +220,6 @@
           "SubFeature": "Binary/ Video / Audio / Images",
           "Description": "Data Format : MP3 , MP4 , AVI , JPG , JPEG , PNG , AVRO , Parquet , ZIP-Data Storage : Azure ADLS , AWS S3 Storage , GCP Storage , Azure CosmosDB , Google Sheets-Data Systems : Employee360 , Legal360 ,  Sales360 , Vendor360 , Service360",
           "ReferredPoints": [
-            "Employee360",
-            "Legal360",
             "Sales360",
             "Vendor360",
             "Service360"
@@ -252,7 +243,6 @@
           "SubFeature": "Azure",
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
-            "Employee360",
             "Vendor360"
           ]
         },
@@ -281,7 +271,6 @@
           "SubFeature": "AWS",
           "Description": "Criteria :-Cloud : AWS Dynamo DB-Data System: Legal360",
           "ReferredPoints": [
-            "Legal360"
           ]
         },
         {
@@ -329,7 +318,6 @@
           "SubFeature": "GDPR",
           "Description": "Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
-            "Employee360",
             "Legal360"
           ]
         },
@@ -391,7 +379,6 @@
           "SubFeature": "Cache",
           "Description": "Reporting Type:-Stakeholders :-Data Systems :",
           "ReferredPoints": [
-            "ITDesk360"
           ]
         },
         {
@@ -406,111 +393,6 @@
 
   ],
   "Points": [
-    {
-      "Point": "Employee360",
-      "latitude": "39.833851",
-      "longitude": "-74.871826",
-      "size": "medium",
-      "icon": "ICONS/Employee360.png",
-      "color": "blue",
-      "title": "title here",
-      "type": "carousel",
-      "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
-      "Actions": [
-        { "Go To Employee360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Landing" },
-        { "Go To Employee360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Analytics" }
-      ],
-      "Popup": [
-        {
-
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
-          "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-          "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-          "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-          "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-          "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-          "Text": "The Analytics module shows various metrics like job candidate details."
-        },
-        {
-          "Type": "Image",
-          "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-          "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
-        }
-      ]
-    },
-    {
-      "Point": "ITDesk360",
-      "latitude": "20.593684",
-      "longitude": "78.96288",
-      "size": "medium",
-      "icon": "ICONS/ITDesk360.png",
-      "color": "blue",
-      "title": "title here",
-      "type": "carousel",
-      "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
-      "Actions": [
-        { "Go To ITDesk360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/ModuleLanding" },
-        { "Go To ITDesk360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/Analytics" }
-      ],
-      "Popup": [
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
-          "Text": "QuestMotors has got their ITDesk360 system which having 2 primary modules like ticketing and analytics"
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Tickets.png",
-          "Text": "The ticketing module helps to raise tickets having attributes like RCA, RCA category,assignee name, email address, title, user  query and status."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-Analytics.png",
-          "Text": "The analytics module shows count ticketing count by an end user."
-        }
-      ]
-    },
-    {
-      "Point": "Legal360",
-      "latitude": "37.0902",
-      "longitude": "-95.7129",
-      "size": "medium",
-      "icon": "ICONS/Legal360.png",
-      "color": "blue",
-      "title": "title here",
-      "type": "carousel",
-      "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
-      "Actions": [
-        { "Go To Legal360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/ModuleLanding" },
-        { "Go To Legal360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/Analytics" }
-      ],
-      "Popup": [
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
-          "Text": "QuestMotors has got their Legal360 system which having 2 primary modules like legal case, notifications and analytics"
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-LegalCase.png",
-          "Text": "The Legal Case module has attributes like legal case id, legal issues, responses, status and priority."
-        },
-        {
-          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Analytics.png",
-          "Text": "The Legal Case analytics module shows various legace case metrics like status by id."
-        }
-      ]
-    },
     {
       "Point": "Marketing360",
       "latitude": "55.3781",
