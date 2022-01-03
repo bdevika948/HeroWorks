@@ -8,11 +8,10 @@
           "SubFeature": "Hot",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-            "Azure Functions",
             "GCP Functions",
             "AWS Lambda",
-			"IBM Functions",
-			"OnPremise"
+	    "IBM Functions",
+	    "OnPremise"
           ]
         },
         {
