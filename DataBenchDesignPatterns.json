@@ -1,7 +1,7 @@
 {
   "Features": [
     {
-      "Feature": "Velocity",
+      "Feature": "Cloud Serverless",
       "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
@@ -11,8 +11,8 @@
             "eBike360",
             "Device360",
             "TravelVerseEWA360",
-			"Azure Functions",
-			"GCP Functions"
+	    "Azure Functions",
+	   "GCP Functions"
           ]
         },
         {
