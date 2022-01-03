@@ -67,7 +67,7 @@
 
     },
     {
-      "Feature": "Variety",
+      "Feature": "Container",
       "DescriptionImage": "Images/Variety.JPG",
       "SubFeatures": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "Feature": "Volume - BigData",
+      "Feature": "Generic Design Pattern",
       "DescriptionImage": "Images/Volume.JPG",
       "SubFeatures": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "Feature": "Database Types",
+      "Feature": "Azure Design Patterns",
       "DescriptionImage": "Images/DatabaseTypes.JPG",
       "SubFeatures": [
         {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "Feature": "Poly / Hybrid Cloud",
+      "Feature": "Function Type",
       "DescriptionImage": "Images/PolyHybridCloud.JPG",
       "SubFeatures": [
         {
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "Feature": "Compliance",
+      "Feature": "API Gateway",
       "DescriptionImage": "Images/Compliance.JPG",
       "SubFeatures": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "Feature": "Social Media",
+      "Feature": "Security",
       "DescriptionImage": "Images/SocialMedia.JPG",
       "SubFeatures": [
         {
