@@ -9,7 +9,8 @@
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
             "eBike360",
-            "Device360"
+            "Device360",
+			"TravelVerseEWA360"
           ]
         },
         {
@@ -23,7 +24,9 @@
             "Marketing360",
             "Employee360",
 			"Diversity360",
-			"Reflect360"
+			"Reflect360",
+			"Experience360",
+			"OmniChannel360"
           ]
         },
         {
@@ -31,7 +34,8 @@
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
             "Employee360",
-            "Service360"
+            "Service360",
+			"Insurance360"
           ]
         },
         {
@@ -39,7 +43,8 @@
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
             "eBike360",
-            "Device360"
+            "Device360",
+			"Experience360"
           ]
         },
         {
