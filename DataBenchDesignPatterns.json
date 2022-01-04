@@ -1171,8 +1171,8 @@
     },
     {
       "Point": "Apigee",
-      "latitude": "56.130366",
-      "longitude": "-106.346771",
+       "latitude": "23.6345",
+      "longitude": "-102.5527",
       "size": "small",
       "icon": "ICONS/Device360.png",
       "color": "blue",
@@ -1200,8 +1200,8 @@
     },
     {
       "Point": "GCP API Gateway",
-      "latitude": "56.130366",
-      "longitude": "-106.346771",
+       "latitude": "12.879721",
+      "longitude": "121.774017",
       "size": "small",
       "icon": "ICONS/Device360.png",
       "color": "blue",
