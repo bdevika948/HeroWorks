@@ -251,7 +251,9 @@
           "SubFeature": "Azure",
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
-            "Vendor360"
+            "Scheduled",
+			"Event Driven",
+			"Http Trigger"
           ]
         },
         {
@@ -1617,6 +1619,93 @@
     },
     {
       "Point": "Strangler",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Scheduled",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Event Driven",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Http Trigger",
       "latitude": "28.033886",
       "longitude": "1.659626",
       "size": "small",
