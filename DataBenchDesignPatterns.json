@@ -355,7 +355,12 @@
           "SubFeature": "Twitter",
           "Description": "Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
-            "Distributed Session Management"
+            "Distributed Session Management",
+			"Client Token",
+			"Single sign-on",
+			"Client Token with API Gateway",
+			"Third-party application access",
+			"Mutual Authentication"
           ]
         },
         {
@@ -1846,6 +1851,151 @@
         {
           "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
           "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Single sign-on",
+      "latitude": "56.130366",
+      "longitude": "-106.346771",
+      "size": "small",
+      "icon": "ICONS/Device360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Client Token with API Gateway",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Third-party application access",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Mutual Authentication",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "size": "small",
+      "icon": "ICONS/Social360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Client Token",
+      "latitude": "37.0902",
+      "longitude": "-95.7129",
+      "size": "medium",
+      "icon": "ICONS/Legal360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
+      "Actions": [
+        { "Go To Legal360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/ModuleLanding" },
+        { "Go To Legal360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/Analytics" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
+          "Text": "QuestMotors has got their Legal360 system which having 2 primary modules like legal case, notifications and analytics"
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-LegalCase.png",
+          "Text": "The Legal Case module has attributes like legal case id, legal issues, responses, status and priority."
+        },
+        {
+          "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-Analytics.png",
+          "Text": "The Legal Case analytics module shows various legace case metrics like status by id."
         }
       ]
     }
