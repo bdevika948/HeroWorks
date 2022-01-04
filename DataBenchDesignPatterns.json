@@ -355,7 +355,7 @@
           "SubFeature": "Twitter",
           "Description": "Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
-            "Social360"
+            "Distributed Session Management"
           ]
         },
         {
@@ -1793,6 +1793,35 @@
     },
     {
       "Point": "GCP API Gateway",
+      "latitude": "56.130366",
+      "longitude": "-106.346771",
+      "size": "small",
+      "icon": "ICONS/Device360.png",
+      "color": "blue",
+      "title": "title here",
+      "type": "carousel",
+      "Description": "Point Description or Tooltip here...",
+      "Actions": [
+        { "Go To Compliance360 Landing": "http://www.google.com/" },
+        { "Go To Compliance360 Analytics": "http://www.google.com/" }
+      ],
+      "Popup": [
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        },
+        {
+          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+        }
+      ]
+    },
+    {
+      "Point": "Distributed Session Management",
       "latitude": "56.130366",
       "longitude": "-106.346771",
       "size": "small",
