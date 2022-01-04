@@ -28,7 +28,7 @@
           ]
         },
         {
-          "SubFeature": "RealTime",
+          "SubFeature": "Real Time",
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
           ]
