@@ -1055,8 +1055,8 @@
     },
     {
       "Point": "Scheduled",
-      "latitude": "28.033886",
-      "longitude": "1.659626",
+       "latitude": "46.227638",
+      "longitude": "2.213749",
       "size": "small",
       "icon": "ICONS/Social360.png",
       "color": "blue",
@@ -1084,8 +1084,8 @@
     },
     {
       "Point": "Event Driven",
-      "latitude": "28.033886",
-      "longitude": "1.659626",
+      "latitude": "-14.235004",
+      "longitude": "-51.92528",
       "size": "small",
       "icon": "ICONS/Social360.png",
       "color": "blue",
