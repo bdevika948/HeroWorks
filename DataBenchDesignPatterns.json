@@ -216,8 +216,8 @@
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
             "Scheduled",
-			"Event Driven",
-			"Http Trigger"
+	    "Event Driven",
+	   "Http Trigger"
           ]
         },
         {
@@ -284,6 +284,8 @@
           "SubFeature": "GDPR",
           "Description": "Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
+	"Azure API Gateway",
+	 "GCP API Gateway",
             "Apigee"
           ]
         },
@@ -291,14 +293,12 @@
           "SubFeature": "PCI",
           "Description": "Category :-Stakeholders :-Data Systems : Sales360",
           "ReferredPoints": [
-            "Azure API Gateway"
           ]
         },
         {
           "SubFeature": "PII",
           "Description": "Category :-Stakeholders :-Data Systems :",
           "ReferredPoints": [
-            "GCP API Gateway"
           ]
         }
       ]
@@ -312,11 +312,11 @@
           "Description": "Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
             "Distributed Session Management",
-			"Client Token",
-			"Single sign-on",
-			"Client Token with API Gateway",
-			"Third-party application access",
-			"Mutual Authentication"
+	    "Client Token",
+	    "Single sign-on",
+	    "Client Token with API Gateway",
+	   "Third-party application access",
+	"Mutual Authentication"
           ]
         },
         {
