@@ -10,7 +10,7 @@
           "ReferredPoints": [
             "eBike360",
             "Device360",
-			"TravelVerseEWA360"
+            "TravelVerseEWA360"
           ]
         },
         {
@@ -23,10 +23,8 @@
             "Vendor360",
             "Marketing360",
             "Employee360",
-			"Diversity360",
-			"Reflect360",
-			"Experience360",
-			"OmniChannel360"
+            "Diversity360",
+            "Experience360"
           ]
         },
         {
@@ -34,8 +32,7 @@
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
             "Employee360",
-            "Service360",
-			"Insurance360"
+            "Service360"
           ]
         },
         {
@@ -43,8 +40,7 @@
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
             "eBike360",
-            "Device360",
-			"Experience360"
+            "Device360"
           ]
         },
         {
@@ -177,7 +173,8 @@
             "Vendor360",
             "Marketing360",
             "Production360",
-            "Compliance360"
+            "Compliance360",
+            "OmniChannel360"
           ]
         },
         {
@@ -186,7 +183,8 @@
           "ReferredPoints": [
             "Service360",
             "Legal360",
-            "Marketing360"
+            "Marketing360",
+            "Reflect360"
           ]
         },
         {
@@ -691,8 +689,8 @@
       "type": "carousel",
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
-        { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/PlanATrip" },
-        { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Bike360/MyBike" }
+        { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" },
+        { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" }
       ],
       "Popup": [
         {
@@ -798,8 +796,8 @@
     },
     {
       "Point": "Predict360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "35.652832",
+      "longitude": "139.839478",
       "size": "small",
       "icon": "ICONS/GCP.jpg",
       "color": "blue",
@@ -827,17 +825,17 @@
     },
     {
       "Point": "Diversity360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "61.5240",
+      "longitude": "105.3188",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/Diversity360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To Diversity360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/index.html" },
+        { "Go To Diversity360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/SearchDEICompany.html" }
       ],
       "Popup": [
         {
@@ -856,46 +854,16 @@
     },
     {
       "Point": "Reflect360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "51.213890",
+      "longitude": "-102.462776",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/Reflect360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "Point Description or Tooltip here.",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
-      ],
-      "Popup": [
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        },
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        },
-        {
-          "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-        }
-      ]
-    },
-    {
-      "Point": "Diversity360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
-      "size": "small",
-      "icon": "ICONS/GCP.jpg",
-      "color": "blue",
-      "title": "aotmp project here",
-      "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
-      "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To Reflect360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Reflect360/index.html" }
       ],
       "Popup": [
         {
@@ -914,17 +882,17 @@
     },
     {
       "Point": "Insurance360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "25.276987",
+      "longitude": "55.296249",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/Insurance360.PNG",
       "color": "blue",
-      "title": "aotmp project here",
+      "title": "project title here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To Insurance360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/light/index.html" },
+        { "Go To Insurance360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/Analytics.html" }
       ],
       "Popup": [
         {
@@ -943,17 +911,16 @@
     },
     {
       "Point": "Experience360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "-33.918861",
+      "longitude": "18.423300",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/Experience360.PNG",
       "color": "blue",
-      "title": "aotmp project here",
+      "title": "project  title here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings..",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To Experience360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Experience360/SearchExperience.html" }
       ],
       "Popup": [
         {
@@ -972,17 +939,17 @@
     },
     {
       "Point": "OmniChannel360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "7.369722",
+      "longitude": "12.354722",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/OmniChannel360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To OmniChannel360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" },
+        { "Go To OmniChannel360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" }
       ],
       "Popup": [
         {
@@ -1001,17 +968,17 @@
     },
     {
       "Point": "TravelVerseEWA360",
-      "latitude": "-25.274398",
-      "longitude": "133.775136",
+      "latitude": "13.25",
+      "longitude": "-59.56667",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/TravelverseEWA360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To TravelVerseEWA360 Landing": "https://www.google.com/" },
+        { "Go To TravelVerseEWA360 Analytics": "http://www.google.com/" }
       ],
       "Popup": [
         {
@@ -1033,14 +1000,14 @@
       "latitude": "-25.274398",
       "longitude": "133.775136",
       "size": "small",
-      "icon": "ICONS/GCP.jpg",
+      "icon": "ICONS/CovidMonitoring360.PNG",
       "color": "blue",
       "title": "aotmp project here",
       "type": "carousel",
-      "Description": "Point Description or Tooltip here...",
+      "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
       "Actions": [
-        { "Go To Predict360 Landing": "http://www.google.com/" },
-        { "Go To Predict360 Analytics": "http://www.google.com/" }
+        { "Go To CovidMonitoring360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" },
+        { "Go To CovidMonitoring360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" }
       ],
       "Popup": [
         {
@@ -1053,7 +1020,7 @@
         },
         {
           "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-          "Text": "Logic App  Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+          "Text": "Logic App   Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
         }
       ]
     }
