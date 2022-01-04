@@ -326,38 +326,7 @@
           ]
         }
       ]
-    },
-    {
-      "Feature": "Consumption",
-      "DescriptionImage": "Images/Consumption.JPG",
-      "SubFeatures": [
-        {
-          "SubFeature": "In-Memory",
-          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Virtualized",
-          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Cache",
-          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "CDN",
-          "Description": "Reporting Type:-Stakeholders :-Data Systems :",
-          "ReferredPoints": [
-          ]
-        }
-      ]
     }
-
   ],
   "Points": [
 	    {
