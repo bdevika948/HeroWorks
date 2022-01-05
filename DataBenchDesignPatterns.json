@@ -200,9 +200,7 @@
           "SubFeature": "Scheduled",
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
-            "Scheduled",
-	    "Event Driven",
-	   "Http Trigger"
+            "Scheduled"
           ]
         },
         {
