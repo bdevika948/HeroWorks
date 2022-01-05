@@ -71,48 +71,6 @@
           "ReferredPoints": [
 		  "Cloud Run"
           ]
-        },
-        {
-          "SubFeature": "Binary",
-          "Description": "Data Format : Parquet , Avro , Zip-Data Volume : In MB-Data Systems : Production360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Text",
-          "Description": "Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Image",
-          "Description": "Data Format : JPEG , PNG-Data Volume : In MB-Data Systems : Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Video / Audio",
-          "Description": "Data Format : MP3 , AVI , MP4-Data Volume : In MB-Data Systems : Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "JSON",
-          "Description": "Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "XML",
-          "Description": "Data Format : XML-Data Volume : In MB-Data Systems : Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "OCR",
-          "Description": "Data Format : OCR-Data Volume : In MB-Data Systems :Service360",
-          "ReferredPoints": [
-          ]
         }
       ]
     },
@@ -121,27 +79,45 @@
       "DescriptionImage": "Images/Volume.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "100 Million Rows",
+          "SubFeature": "Aggregator Microservice Design Pattern",
           "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
-            "Aggregator Microservice Design Pattern",
-			"Proxy Microservice Design Pattern",
-			"Chained Microservice Design Pattern",
-			"Branch Microservice Design Pattern",
-			"Shared Data Microservice Design Pattern",
-			"Asynchronous Messaging Microservice Design Pattern"
+            "Aggregator Microservice Design Pattern"
           ]
         },
         {
-          "SubFeature": "20000 columns",
+          "SubFeature": "Proxy Microservice Design Pattern",
           "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
+		  "Proxy Microservice Design Pattern"
           ]
         },
         {
-          "SubFeature": "1 Million Text",
+          "SubFeature": "Chained Microservice Design Pattern",
           "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
+		  "Chained Microservice Design Pattern"
+          ]
+        },
+        {
+          "SubFeature": "Branch Microservice Design Pattern",
+          "Description": "Subfeature Description or Tooltip here...",
+          "ReferredPoints": [
+		  "Branch Microservice Design Pattern"
+          ]
+        },
+        {
+          "SubFeature": "Shared Data Microservice Design Pattern",
+          "Description": "Subfeature Description or Tooltip here...",
+          "ReferredPoints": [
+		  "Shared Data Microservice Design Pattern"
+          ]
+        },
+        {
+          "SubFeature": "Asynchronous Messaging Microservice Design Pattern",
+          "Description": "Subfeature Description or Tooltip here...",
+          "ReferredPoints": [
+		  "Asynchronous Messaging Microservice Design Pattern"
           ]
         }
       ]
@@ -151,7 +127,7 @@
       "DescriptionImage": "Images/DatabaseTypes.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "SQL",
+          "SubFeature": "Ambassador",
           "Description": "Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
           "ReferredPoints": [
             "Ambassador",
@@ -166,46 +142,60 @@
           ]
         },
         {
-          "SubFeature": "NoSQL",
+          "SubFeature": "Anti-corruption layer",
           "Description": "Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
           "ReferredPoints": [
+		  "Anti-corruption layer"
           ]
         },
         {
-          "SubFeature": "Graph",
+          "SubFeature": "Backends for Frontends",
           "Description": "Data Format : JSON-Data Storage :Azure IoT-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
+		  "Backends for Frontends"
           ]
         },
         {
-          "SubFeature": "Hadoop Compliant",
+          "SubFeature": "Bulkhead",
           "Description": "Subfeature Description or Tooltip here...",
           "ReferredPoints": [
+		  "Bulkhead"
           ]
         },
         {
-          "SubFeature": "OpenSource",
+          "SubFeature": "Gateway Aggregation",
           "Description": "Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
           "ReferredPoints": [
+		  "Gateway Aggregation"
           ]
         },
         {
-          "SubFeature": "Excel / CSV / Text",
+          "SubFeature": "Gateway Offloading",
           "Description": "Data Format :  Excel , CSV  ,JSON-Data Storage : Google Sheets , Google Forms-Data Systems : Service360",
           "ReferredPoints": [
+		  "Gateway Offloading"
           ]
         },
         {
-          "SubFeature": "Binary/ Video / Audio / Images",
+          "SubFeature": "Gateway Routing",
           "Description": "Data Format : MP3 , MP4 , AVI , JPG , JPEG , PNG , AVRO , Parquet , ZIP-Data Storage : Azure ADLS , AWS S3 Storage , GCP Storage , Azure CosmosDB , Google Sheets-Data Systems : Employee360 , Legal360 ,  Sales360 , Vendor360 , Service360",
           "ReferredPoints": [
+		  "Gateway Routing"
 
           ]
         },
         {
-          "SubFeature": "Text",
+          "SubFeature": "Sidecar",
           "Description": "Data Format : text files , Sheets-Data Storage : Google Sheets-Data Systems : Service360",
           "ReferredPoints": [
+		  "Sidecar"
+          ]
+        },
+        {
+          "SubFeature": "Strangler",
+          "Description": "Data Format : text files , Sheets-Data Storage : Google Sheets-Data Systems : Service360",
+          "ReferredPoints": [
+		  "Strangler"
           ]
         }
       ]
@@ -215,7 +205,7 @@
       "DescriptionImage": "Images/PolyHybridCloud.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Azure",
+          "SubFeature": "Scheduled",
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
             "Scheduled",
@@ -224,57 +214,17 @@
           ]
         },
         {
-          "SubFeature": "Oracle",
+          "SubFeature": "Event Driven",
           "Description": "Criteria :-Cloud : Oracle Autonomous DB-Data System: Complaince360",
           "ReferredPoints": [
+		  "Event Driven"
           ]
         },
         {
-          "SubFeature": "GCP",
+          "SubFeature": "Http Trigger",
           "Description": "Criteria :-Cloud :  GCP Firestore , GCP BigQuery-Data System: Bike360",
           "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "IBM",
-          "Description": "Criteria :-Cloud : IBM DB2 , IBM Cloudant-Data System: Marketing360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "AWS",
-          "Description": "Criteria :-Cloud : AWS Dynamo DB-Data System: Legal360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Snowflake",
-          "Description": "Criteria :-Cloud : Snowflake -Data System: Sales360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Databricks",
-          "Description": "Criteria :-Cloud : Azure Databricks-Data System:  Social360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Gsuite",
-          "Description": "Criteria :-Cloud : Google Sheets , Google Forms-Data System:  Service360 ",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "O365",
-          "Description": "Criteria :-Cloud : -Data System: Service360",
-          "ReferredPoints": [
-          ]
-        },
-        {
-          "SubFeature": "Elephant DB",
-          "Description": "Criteria :-Cloud :  Elephant Postgres-Data System: Production360",
-          "ReferredPoints": [
+		  "Http Trigger"
           ]
         }
       ]
@@ -284,7 +234,7 @@
       "DescriptionImage": "Images/Compliance.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "GDPR",
+          "SubFeature": "Azure API Gateway",
           "Description": "Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
 	"Azure API Gateway",
@@ -293,15 +243,17 @@
           ]
         },
         {
-          "SubFeature": "PCI",
+          "SubFeature": "GCP API Gateway",
           "Description": "Category :-Stakeholders :-Data Systems : Sales360",
           "ReferredPoints": [
+		  "GCP API Gateway"
           ]
         },
         {
-          "SubFeature": "PII",
+          "SubFeature": "Apigee",
           "Description": "Category :-Stakeholders :-Data Systems :",
           "ReferredPoints": [
+		  "Apigee"
           ]
         }
       ]
@@ -311,7 +263,7 @@
       "DescriptionImage": "Images/SocialMedia.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Twitter",
+          "SubFeature": "Distributed Session Management",
           "Description": "Data Collected : Tweets-Data Systems : Social360",
           "ReferredPoints": [
             "Distributed Session Management",
@@ -323,9 +275,38 @@
           ]
         },
         {
-          "SubFeature": "Linkedin",
+          "SubFeature": "Client Token",
           "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
           "ReferredPoints": [
+		  "Client Token"
+          ]
+        },
+        {
+          "SubFeature": "Single sign-on",
+          "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
+          "ReferredPoints": [
+		  "Single sign-on"
+          ]
+        },
+        {
+          "SubFeature": "Client Token with API Gateway",
+          "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
+          "ReferredPoints": [
+		  "Client Token with API Gateway"
+          ]
+        },
+        {
+          "SubFeature": "Third-party application access",
+          "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
+          "ReferredPoints": [
+		  "Third-party application access"
+          ]
+        },
+        {
+          "SubFeature": "Mutual Authentication",
+          "Description": "Data Collected : Company Information , Profiles-Data Systems :Social360",
+          "ReferredPoints": [
+		  "Mutual Authentication"
           ]
         }
       ]
