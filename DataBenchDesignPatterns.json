@@ -8,11 +8,7 @@
           "SubFeature": "Azure Functions",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-	    "Azure Functions",
-	   "GCP Functions",
-           "AWS Lambda",
-           "IBM Functions",
-	  "OnPremise"
+	    "Azure Functions"
           ]
         },
         {
@@ -30,15 +26,17 @@
           ]
         },
         {
-          "SubFeature": "RealTime",
+          "SubFeature": "IBM Functions",
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
+		  "IBM Functions"
           ]
         },
         {
-          "SubFeature": "Batch",
+          "SubFeature": "OnPremise",
           "Description": "Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
           "ReferredPoints": [
+		  "OnPremise"
           ]
         },
         {
