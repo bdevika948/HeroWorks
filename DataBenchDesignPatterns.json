@@ -219,9 +219,7 @@
           "SubFeature": "Azure API Gateway",
           "Description": "Category : -Stakeholders :-Data Systems : Employee360 , Legal360",
           "ReferredPoints": [
-	"Azure API Gateway",
-	 "GCP API Gateway",
-            "Apigee"
+	"Azure API Gateway"
           ]
         },
         {
