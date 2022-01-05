@@ -59,17 +59,17 @@
       "DescriptionImage": "Images/Variety.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Structured",
+          "SubFeature": "Auto Pilot",
           "Description": "Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
           "ReferredPoints": [
-            "Auto Pilot",
-            "Cloud Run"
+            "Auto Pilot"
           ]
         },
         {
-          "SubFeature": "Semi-Structured",
+          "SubFeature": "Cloud Run",
           "Description": "Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
+		  "Cloud Run"
           ]
         },
         {
