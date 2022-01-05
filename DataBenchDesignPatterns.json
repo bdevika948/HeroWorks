@@ -5,7 +5,7 @@
       "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Hot",
+          "SubFeature": "Azure Functions",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
 	    "Azure Functions",
@@ -16,27 +16,31 @@
           ]
         },
         {
-          "SubFeature": "Warm",
+          "SubFeature": "GCP Functions",
           "Description": "Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
+		  "GCP Functions"
           ]
         },
         {
-          "SubFeature": "Cold",
+          "SubFeature": "AWS Lambda",
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
+		  "AWS Lambda"
           ]
         },
         {
-          "SubFeature": "RealTime",
+          "SubFeature": "IBM Functions",
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
+		   "IBM Functions"
           ]
         },
         {
-          "SubFeature": "Batch",
+          "SubFeature": "OnPremise",
           "Description": "Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
           "ReferredPoints": [
+		  "OnPremise"
           ]
         },
         {
