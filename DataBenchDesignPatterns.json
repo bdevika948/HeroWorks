@@ -47,19 +47,61 @@
       "DescriptionImage": "Images/Variety.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Auto Pilot",
+          "SubFeature": "Structured",
           "Description": "Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
           "ReferredPoints": [
-            "Auto Pilot"
+            "Auto Pilot",
+            "Cloud Run"
           ]
         },
         {
-          "SubFeature": "Cloud Run",
+          "SubFeature": "Semi-Structured",
           "Description": "Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
-		  "Cloud Run"
           ]
         },
+        {
+          "SubFeature": "Binary",
+          "Description": "Data Format : Parquet , Avro , Zip-Data Volume : In MB-Data Systems : Production360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "Text",
+          "Description": "Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "Image",
+          "Description": "Data Format : JPEG , PNG-Data Volume : In MB-Data Systems : Service360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "Video / Audio",
+          "Description": "Data Format : MP3 , AVI , MP4-Data Volume : In MB-Data Systems : Service360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "JSON",
+          "Description": "Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "XML",
+          "Description": "Data Format : XML-Data Volume : In MB-Data Systems : Service360",
+          "ReferredPoints": [
+          ]
+        },
+        {
+          "SubFeature": "OCR",
+          "Description": "Data Format : OCR-Data Volume : In MB-Data Systems :Service360",
+          "ReferredPoints": [
+          ]
+        }
       ]
     },
     {
