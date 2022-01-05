@@ -5,40 +5,48 @@
       "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Azure Functions",
+          "SubFeature": "Hot",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-	    "Azure Functions"
+	    "Azure Functions",
+	   "GCP Functions",
+           "AWS Lambda",
+           "IBM Functions",
+	  "OnPremise"
           ]
         },
         {
-          "SubFeature": "GCP Functions",
+          "SubFeature": "Warm",
           "Description": "Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
-		  "GCP Functions"
           ]
         },
         {
-          "SubFeature": "AWS Lambda",
+          "SubFeature": "Cold",
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
-		  "AWS Lambda"
           ]
         },
         {
-          "SubFeature": "IBM Functions",
+          "SubFeature": "RealTime",
           "Description": "Data Speed : Millions of messages per second-Data Volume : Small / Medium packets-Data Systems : Bike360 , Device360",
           "ReferredPoints": [
-		  "IBM Functions"
           ]
         },
         {
-          "SubFeature": "OnPremise",
+          "SubFeature": "Batch",
           "Description": "Data Speed : Thousands of messages per batch-Data Volume : Small/Large packets typically large files-Data Systems : Production360 ",
           "ReferredPoints": [
-		  "OnPremise"
+          ]
+        },
+        {
+          "SubFeature": "Archive",
+          "Description": "Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
+          "ReferredPoints": [
+
           ]
         }
+
       ]
 
     },
@@ -47,17 +55,17 @@
       "DescriptionImage": "Images/Variety.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Auto Pilot",
+          "SubFeature": "Structured",
           "Description": "Data Format : CSV , TSV , SQL , Excel-Data Volume : In MB-Data Systems : Employee360",
           "ReferredPoints": [
-            "Auto Pilot"
+            "Auto Pilot",
+            "Cloud Run"
           ]
         },
         {
-          "SubFeature": "Cloud Run",
+          "SubFeature": "Semi-Structured",
           "Description": "Data Format : JSON , XML-Data Volume : In MB-Data Systems : Marketing360",
           "ReferredPoints": [
-		  "Cloud Run"
           ]
         },
         {
