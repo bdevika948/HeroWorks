@@ -5,7 +5,7 @@
       "DescriptionImage": "Images/Velocity.JPG",
       "SubFeatures": [
         {
-          "SubFeature": "Hot",
+          "SubFeature": "Azure Functions",
           "Description": "Data Speed : Millions of messages per second -Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
 	    "Azure Functions",
@@ -16,7 +16,7 @@
           ]
         },
         {
-          "SubFeature": "Warm",
+          "SubFeature": "GCP Functions",
           "Description": "Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
           ]
