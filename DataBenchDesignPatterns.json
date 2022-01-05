@@ -122,15 +122,7 @@
           "SubFeature": "Ambassador",
           "Description": "Data Format : CSV , TSV-Data Storage : Azure SQL , IBM  DB2 , Snowflake -Data Systems : Employee360 , Sales360 , Vendor360 , Marketing360 , Production360 , Complaince360",
           "ReferredPoints": [
-            "Ambassador",
-            "Anti-corruption layer",
-            "Backends for Frontends",
-            "Bulkhead",
-            "Gateway Aggregation",
-            "Gateway Offloading",
-			"Gateway Routing",
-			"Sidecar",
-			"Strangler"
+            "Ambassador"
           ]
         },
         {
@@ -1203,8 +1195,8 @@
     },
     {
       "Point": "Distributed Session Management",
-      "latitude": "23.6345",
-      "longitude": "-102.5527",
+      "latitude": "69.6354163",
+      "longitude": "-42.1736914",
       "size": "small",
       "icon": "ICONS/Device360.png",
       "color": "blue",
