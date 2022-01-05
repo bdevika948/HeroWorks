@@ -742,8 +742,8 @@
     },
 	 {
       "Point": "Ambassador",
-      "latitude": "55.3781",
-      "longitude": "-3.4360",
+         "latitude": "-25.274398",
+      "longitude": "133.775136",
       "size": "small",
       "icon": "ICONS/Marketing360.png",
       "color": "blue",
