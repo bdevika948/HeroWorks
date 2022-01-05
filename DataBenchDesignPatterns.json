@@ -38,15 +38,7 @@
           "ReferredPoints": [
 		  "OnPremise"
           ]
-        },
-        {
-          "SubFeature": "Archive",
-          "Description": "Data Speed : Data beyond specified time period-Data Volume : Files / Database-Data Systems : Production360 , Employee360 , Vendor360",
-          "ReferredPoints": [
-
-          ]
         }
-
       ]
 
     },
