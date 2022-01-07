@@ -412,8 +412,8 @@
       "type": "carousel",
       "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
-        { "Go To Employee360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Landing" },
-        { "Go To Employee360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Employee360/Analytics" }
+        { "Go To Employee360 Landing": "https://localhost:44399/Employee360/Landing" },
+        { "Go To Employee360 Analytics": "https://localhost:44399/Employee360/Analytics" }
       ],
       "Popup": [
         {
@@ -459,8 +459,8 @@
       "type": "carousel",
       "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
-        { "Go To ITDesk360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/ModuleLanding" },
-        { "Go To ITDesk360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/ITDesk360/Analytics" }
+        { "Go To ITDesk360 Landing": "https://localhost:44399/ITDesk360/ModuleLanding" },
+        { "Go To ITDesk360 Analytics": "https://localhost:44399/ITDesk360/Analytics" }
       ],
       "Popup": [
         {
@@ -488,8 +488,8 @@
       "type": "carousel",
       "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
-        { "Go To Legal360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/ModuleLanding" },
-        { "Go To Legal360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Legal360/Analytics" }
+        { "Go To Legal360 Landing": "https://localhost:44399/Legal360/ModuleLanding" },
+        { "Go To Legal360 Analytics": "https://localhost:44399/Legal360/Analytics" }
       ],
       "Popup": [
         {
@@ -517,8 +517,8 @@
       "type": "carousel",
       "Description": "QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
-        { "Go To Marketing360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Marketing360/Landing" },
-        { "Go To Marketing360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Marketing360/Analytics" }
+        { "Go To Marketing360 Landing": "https://localhost:44399/Marketing360/Landing" },
+        { "Go To Marketing360 Analytics": "https://localhost:44399/Marketing360/Analytics" }
       ],
       "Popup": [
         {
@@ -550,8 +550,8 @@
       "type": "carousel",
       "Description": "QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
       "Actions": [
-        { "Go To Production360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Production360/ModuleLanding" },
-        { "Go To Production360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Production360/Analytics" }
+        { "Go To Production360 Landing": "https://localhost:44399/Production360/ModuleLanding" },
+        { "Go To Production360 Analytics": "https://localhost:44399/Production360/Analytics" }
       ],
       "Popup": [
         {
@@ -591,8 +591,8 @@
       "type": "carousel",
       "Description": "QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
       "Actions": [
-        { "Go To Sales360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Sales360/ModuleLanding" },
-        { "Go To Sales360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Sales360/Analytics" }
+        { "Go To Sales360 Landing": "https://localhost:44399/Sales360/ModuleLanding" },
+        { "Go To Sales360 Analytics": "https://localhost:44399/Sales360/Analytics" }
       ],
       "Popup": [
         {
@@ -624,8 +624,8 @@
       "type": "carousel",
       "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, PO’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
-        { "Go To Vendor360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Vendor360/ModuleLanding" },
-        { "Go To Vendor360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Vendor360/Analytics" }
+        { "Go To Vendor360 Landing": "https://localhost:44399/Vendor360/ModuleLanding" },
+        { "Go To Vendor360 Analytics": "https://localhost:44399/Vendor360/Analytics" }
       ],
       "Popup": [
         {
@@ -690,8 +690,8 @@
       "type": "carousel",
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
-        { "Go To Bike360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" },
-        { "Go To Bike360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/eBike360/light/index.html" }
+        { "Go To Bike360 Landing": "https://localhost:44399/Content/eBike360/light/index.html" },
+        { "Go To Bike360 Analytics": "https://localhost:44399/Content/eBike360/light/index.html" }
       ],
       "Popup": [
         {
@@ -835,8 +835,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To Diversity360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/index.html" },
-        { "Go To Diversity360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Diversity360/SearchDEICompany.html" }
+        { "Go To Diversity360 Landing": "https://localhost:44399/Content/Diversity360/index.html" },
+        { "Go To Diversity360 Analytics": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html" }
       ],
       "Popup": [
         {
@@ -864,7 +864,7 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here.",
       "Actions": [
-        { "Go To Reflect360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Reflect360/index.html" }
+        { "Go To Reflect360 Landing": "https://localhost:44399/Content/Reflect360/index.html" }
       ],
       "Popup": [
         {
@@ -892,8 +892,8 @@
       "type": "carousel",
       "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
       "Actions": [
-        { "Go To Insurance360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/light/index.html" },
-        { "Go To Insurance360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Insurance360/Analytics.html" }
+        { "Go To Insurance360 Landing": "https://localhost:44399/Content/Insurance360/light/index.html" },
+        { "Go To Insurance360 Analytics": "https://localhost:44399/Content/Insurance360/Analytics.html" }
       ],
       "Popup": [
         {
@@ -921,7 +921,7 @@
       "type": "carousel",
       "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings..",
       "Actions": [
-        { "Go To Experience360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/Experience360/SearchExperience.html" }
+        { "Go To Experience360 Landing": "https://localhost:44399/Content/Experience360/SearchExperience.html" }
       ],
       "Popup": [
         {
@@ -949,8 +949,8 @@
       "type": "carousel",
       "Description": "Point Description or Tooltip here...",
       "Actions": [
-        { "Go To OmniChannel360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" },
-        { "Go To OmniChannel360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/OmniChannel360/index.html" }
+        { "Go To OmniChannel360 Landing": "https://localhost:44399/OmniChannel360/index.html" },
+        { "Go To OmniChannel360 Analytics": "https://localhost:44399/OmniChannel360/index.html" }
       ],
       "Popup": [
         {
@@ -1007,8 +1007,8 @@
       "type": "carousel",
       "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
       "Actions": [
-        { "Go To CovidMonitoring360 Landing": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" },
-        { "Go To CovidMonitoring360 Analytics": "https://questmotorsenterprisecdn.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html" }
+        { "Go To CovidMonitoring360 Landing": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html" },
+        { "Go To CovidMonitoring360 Analytics": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html" }
       ],
       "Popup": [
         {
