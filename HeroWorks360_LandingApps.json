@@ -919,7 +919,7 @@
       "color": "blue",
       "title": "project  title here",
       "type": "carousel",
-      "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings..",
+      "Description": "QuestMotors has an experience sharing platform on  which engineers and field persons can share their experiences and learnings..",
       "Actions": [
         { "Go To Experience360 Landing": "https://localhost:44399/Content/Experience360/light/ShareExperience.html" }
       ],
