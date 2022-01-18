@@ -1223,7 +1223,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, PO’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
+      "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, POÂ’s, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
         {
           "Action": "Go To Data View ",
@@ -1469,7 +1469,7 @@
       "color": "blue",
       "title": "title here",
       "type": "carousel",
-      "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called ‘Bike 360’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
+      "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called Â‘Bike 360Â’,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
         {
           "Action": "Go To Data View",
@@ -2712,7 +2712,7 @@
 
         },
         {
-          "Warm": "False"
+          "Warm": "True"
         },
         {
           "Cold": "False"
@@ -2732,7 +2732,7 @@
           "Structured": "True"
         },
         {
-          "Semi-Structured": "True"
+          "Semi-Structured": "False"
         },
         {
           "Binary": "True"
@@ -2741,7 +2741,7 @@
           "Text": "True"
         },
         {
-          "Image": "True"
+          "Image": "False"
         },
         {
           "Video / Audio": "True"
@@ -2750,21 +2750,21 @@
           "JSON": "True"
         },
         {
-          "XML": "True"
+          "XML": "False"
         },
         {
-          "OCR": "True"
+          "OCR": "False"
         }
       ],
       "Volume - BigData": [
         {
-          "100 Million Rows": "True"
+          "100 Million Rows": "False"
         },
         {
-          "20000 columns": "True"
+          "20000 columns": "False"
         },
         {
-          "1 Million Text": "True"
+          "1 Million Text": "False"
         }
       ],
       "Database Types": [
@@ -2772,16 +2772,16 @@
           "SQL": "True"
         },
         {
-          "NoSQL": "True"
+          "NoSQL": "False"
         },
         {
           "SQL": "True"
         },
         {
-          "Graph": "True"
+          "Graph": "False"
         },
         {
-          "Hadoop Compliant": "True"
+          "Hadoop Compliant": "False"
         },
         {
           "OpenSource": "True"
@@ -2793,12 +2793,12 @@
           "Binary/ Video / Audio / Images": "True"
         },
         {
-          "Text": "True"
+          "Text": "False"
         }
       ],
       "Poly / Hybrid Cloud": [
         {
-          "Azure": "True"
+          "Azure": "False"
         },
         {
           "Oracle": "True"
@@ -2813,10 +2813,10 @@
           "AWS": "True"
         },
         {
-          "Snowflake": "True"
+          "Snowflake": "False"
         },
         {
-          "Databricks": "True"
+          "Databricks": "False"
         },
         {
           "Gsuite": "True"
