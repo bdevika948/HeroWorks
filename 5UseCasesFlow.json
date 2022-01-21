@@ -414,7 +414,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -446,7 +446,7 @@
         },
         {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -482,7 +482,7 @@
         },
 		{
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -518,7 +518,7 @@
         },
 		{
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -554,7 +554,7 @@
         },
 		{
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -590,7 +590,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -626,7 +626,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -662,7 +662,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -698,7 +698,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -734,7 +734,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -770,7 +770,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -806,7 +806,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -857,7 +857,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
@@ -874,7 +874,7 @@
           ]
         }, {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
@@ -891,7 +891,7 @@
           ]
         }, {
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
@@ -908,7 +908,7 @@
           ]
         }, {
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
@@ -925,7 +925,7 @@
           ]
         }, {
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/ITDesk360-App.png",
@@ -943,7 +943,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -979,7 +979,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1015,7 +1015,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1051,7 +1051,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1087,7 +1087,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1123,7 +1123,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1159,7 +1159,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1208,7 +1208,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Legal360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
@@ -1226,7 +1226,7 @@
         },
         {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Legal360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
@@ -1243,7 +1243,7 @@
           ]
         },{
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Legal360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
@@ -1261,7 +1261,7 @@
         },
 		{
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Legal360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
@@ -1279,7 +1279,7 @@
         },
 		{
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Legal360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Legal360-App.png",
@@ -1297,7 +1297,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1333,7 +1333,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1369,7 +1369,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1405,7 +1405,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1441,7 +1441,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1477,7 +1477,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1513,7 +1513,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1562,7 +1562,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Marketing360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Apps.png",
@@ -1584,7 +1584,7 @@
         },
         {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Marketing360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Apps.png",
@@ -1606,7 +1606,7 @@
         },
 		        {
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Marketing360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Apps.png",
@@ -1628,7 +1628,7 @@
         },
 		        {
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Marketing360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Apps.png",
@@ -1650,7 +1650,7 @@
         },
 		        {
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Marketing360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Marketing360-Apps.png",
@@ -1672,7 +1672,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1708,7 +1708,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1744,7 +1744,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1780,7 +1780,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1816,7 +1816,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1852,7 +1852,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1888,7 +1888,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -1939,7 +1939,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Production360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
@@ -1969,7 +1969,7 @@
         },
         {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Production360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
@@ -2000,7 +2000,7 @@
         },
 		{
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Production360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
@@ -2031,7 +2031,7 @@
         },
 		{
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Production360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
@@ -2062,7 +2062,7 @@
         },
 		{
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Production360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Production360-Apps.png",
@@ -2093,7 +2093,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2129,7 +2129,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2165,7 +2165,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2201,7 +2201,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2237,7 +2237,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2273,7 +2273,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2309,7 +2309,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2359,7 +2359,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Sales360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
@@ -2381,7 +2381,7 @@
         },
 		{
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Sales360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
@@ -2403,7 +2403,7 @@
         },
 		{
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Sales360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
@@ -2425,7 +2425,7 @@
         },
 		{
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Sales360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
@@ -2447,7 +2447,7 @@
         },
 		{
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Sales360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Sales360-App.png",
@@ -2469,7 +2469,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2505,7 +2505,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2541,7 +2541,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2577,7 +2577,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2613,7 +2613,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2649,7 +2649,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2685,7 +2685,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2735,7 +2735,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer ",
-          "Url": "https://localhost:44399/Vendor360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
@@ -2761,7 +2761,7 @@
         },
 		 {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Vendor360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
@@ -2787,7 +2787,7 @@
         },
 		 {
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Vendor360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
@@ -2812,7 +2812,7 @@
           ]
         }, {
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Vendor360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
@@ -2838,7 +2838,7 @@
         },
 		 {
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Vendor360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Vendor360-App.png",
@@ -2864,7 +2864,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2900,7 +2900,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2936,7 +2936,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -2972,7 +2972,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3008,7 +3008,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3044,7 +3044,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3080,7 +3080,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3130,7 +3130,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Service360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
               "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -3148,7 +3148,7 @@
         },
 		 {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Service360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
               "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -3165,7 +3165,7 @@
           ]
         }, {
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Service360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
               "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -3183,7 +3183,7 @@
         },
 		 {
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Service360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
               "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -3201,7 +3201,7 @@
         },
 		 {
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Service360/ModuleLanding",
+          "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
               "Data": "https://anthonychu.ca/post-assets/2019-04-29/architecture.png",
@@ -3219,7 +3219,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3255,7 +3255,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3291,7 +3291,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3327,7 +3327,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3363,7 +3363,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3399,7 +3399,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3435,7 +3435,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3485,7 +3485,7 @@
       "Actions": [
         {
           "Action": "Storage Explorer",
-          "Url": "https://localhost:44399/Content/eBike360/light/index.html",
+          "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
@@ -3503,7 +3503,7 @@
         },
 		 {
           "Action": "Project Dashboard",
-          "Url": "https://localhost:44399/Content/eBike360/light/index.html",
+          "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
@@ -3521,7 +3521,7 @@
         },
 		 {
           "Action": "Data Transformation View",
-          "Url": "https://localhost:44399/Content/eBike360/light/index.html",
+          "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
@@ -3539,7 +3539,7 @@
         },
 		 {
           "Action": "Data Quality Dashboard",
-          "Url": "https://localhost:44399/Content/eBike360/light/index.html",
+          "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
@@ -3557,7 +3557,7 @@
         },
 		 {
           "Action": "Data House Time Travel View",
-          "Url": "https://localhost:44399/Content/eBike360/light/index.html",
+          "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Bike360-CustomerDesk.png",
@@ -3575,7 +3575,7 @@
         },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3611,7 +3611,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3647,7 +3647,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3683,7 +3683,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3719,7 +3719,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3755,7 +3755,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3791,7 +3791,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3931,7 +3931,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -3967,7 +3967,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4003,7 +4003,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4039,7 +4039,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4075,7 +4075,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4111,7 +4111,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4147,7 +4147,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4286,7 +4286,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4322,7 +4322,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4358,7 +4358,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4394,7 +4394,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4430,7 +4430,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4466,7 +4466,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4502,7 +4502,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4641,7 +4641,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4677,7 +4677,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4713,7 +4713,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4749,7 +4749,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4785,7 +4785,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4821,7 +4821,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4857,7 +4857,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -4996,7 +4996,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5032,7 +5032,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5068,7 +5068,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5104,7 +5104,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5140,7 +5140,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5176,7 +5176,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5212,7 +5212,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5261,7 +5261,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/Content/Diversity360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5279,7 +5279,7 @@
             },
             {
               "Action": "Data  Analytics",
-              "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5297,7 +5297,7 @@
             },
 			{
               "Action": "Data  Rules",
-              "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5315,7 +5315,7 @@
             },
 			{
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5333,7 +5333,7 @@
             },
 			{
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5351,7 +5351,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5387,7 +5387,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5423,7 +5423,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5459,7 +5459,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5495,7 +5495,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5531,7 +5531,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5567,7 +5567,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5616,7 +5616,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/Content/Reflect360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5634,7 +5634,7 @@
             },
 			 {
               "Action": "Project Dashboard",
-              "Url": "https://localhost:44399/Content/Reflect360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5652,7 +5652,7 @@
             },
 			 {
               "Action": "Data Transformation View",
-              "Url": "https://localhost:44399/Content/Reflect360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5670,7 +5670,7 @@
             },
 			 {
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/Content/Reflect360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5688,7 +5688,7 @@
             },
 			 {
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/Content/Reflect360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5706,7 +5706,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5742,7 +5742,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5778,7 +5778,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5814,7 +5814,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5850,7 +5850,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5886,7 +5886,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5922,7 +5922,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -5971,7 +5971,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/DataModel.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/DataModel.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -5989,7 +5989,7 @@
             },
             {
               "Action": "Project Dashboard",
-              "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6007,7 +6007,7 @@
             },
 			{
               "Action": "Data Transformation View",
-              "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6025,7 +6025,7 @@
             },
 			{
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6043,7 +6043,7 @@
             },
 			{
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6061,7 +6061,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6097,7 +6097,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6133,7 +6133,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6169,7 +6169,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6205,7 +6205,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6241,7 +6241,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6277,7 +6277,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6326,7 +6326,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/Content/Experience360/light/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6344,7 +6344,7 @@
             },
 			 {
               "Action": "Project Dashboard",
-              "Url": "https://localhost:44399/Content/Experience360/light/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6362,7 +6362,7 @@
             },
 			 {
               "Action": "Data Transformation View",
-              "Url": "https://localhost:44399/Content/Experience360/light/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6380,7 +6380,7 @@
             },
 			 {
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/Content/Experience360/light/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6398,7 +6398,7 @@
             },
 			 {
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/Content/Experience360/light/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6416,7 +6416,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6452,7 +6452,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6488,7 +6488,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6524,7 +6524,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6560,7 +6560,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6596,7 +6596,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6632,7 +6632,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6681,7 +6681,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/OmniChannel360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6699,7 +6699,7 @@
             },
 			  {
               "Action": "Project Dashboard",
-              "Url": "https://localhost:44399/OmniChannel360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6717,7 +6717,7 @@
             },
 			  {
               "Action": "Data Transformation View",
-              "Url": "https://localhost:44399/OmniChannel360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6735,7 +6735,7 @@
             },
 			  {
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/OmniChannel360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6753,7 +6753,7 @@
             },
 			  {
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/OmniChannel360/index.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -6771,7 +6771,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6807,7 +6807,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6843,7 +6843,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6879,7 +6879,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6915,7 +6915,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6942,7 +6942,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -6978,7 +6978,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7122,7 +7122,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7158,7 +7158,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7194,7 +7194,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7230,7 +7230,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7266,7 +7266,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7302,7 +7302,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7338,7 +7338,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7387,7 +7387,7 @@
           "Actions": [
             {
               "Action": "Storage Explorer",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -7405,7 +7405,7 @@
             },
             {
               "Action": "Project Dashboard",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -7423,7 +7423,7 @@
             },
 			{
               "Action": "Data Transformation View",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -7441,7 +7441,7 @@
             },
 			{
               "Action": "Data Quality Dashboard",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -7459,7 +7459,7 @@
             },
 			{
               "Action": "Data House Time Travel View",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
                   "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
@@ -7477,7 +7477,7 @@
             },
 		{
           "Action": "Virtualize ER Model",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7513,7 +7513,7 @@
         },
 		{
           "Action": "Scenarios(amcharts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7549,7 +7549,7 @@
         },
 		{
           "Action": "Scenarios(Google Charts)",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7585,7 +7585,7 @@
         },
 		{
           "Action": "Users and Roles",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7621,7 +7621,7 @@
         },
 		{
           "Action": "Execution Telemetry",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7657,7 +7657,7 @@
         },
 {
           "Action": "Project Architecture",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
@@ -7693,7 +7693,7 @@
         },
 		{
           "Action": "Project Metadata",
-          "Url": "https://localhost:44399/Employee360/Landing",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
