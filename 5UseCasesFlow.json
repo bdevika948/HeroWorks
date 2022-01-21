@@ -2704,14 +2704,14 @@
       "Name": "QuestMotors",
       "Velocity": [
         {
-          "Hot": "True"
+          "Hot": "False"
 
         },
         {
-          "Warm": "True"
+          "Warm": "False"
         },
         {
-          "Cold": "False"
+          "Cold": "True"
         },
         {
           "RealTime": "False"
@@ -2731,7 +2731,7 @@
           "Semi-Structured": "False"
         },
         {
-          "Binary": "True"
+          "Binary": "False"
         },
         {
           "Text": "True"
@@ -2740,7 +2740,7 @@
           "Image": "False"
         },
         {
-          "Video / Audio": "True"
+          "Video / Audio": "False"
         },
         {
           "JSON": "True"
@@ -2783,10 +2783,10 @@
           "OpenSource": "True"
         },
         {
-          "Excel / CSV / Text": "True"
+          "Excel / CSV / Text": "False"
         },
         {
-          "Binary/ Video / Audio / Images": "True"
+          "Binary/ Video / Audio / Images": "False"
         },
         {
           "Text": "False"
@@ -2794,19 +2794,19 @@
       ],
       "Poly / Hybrid Cloud": [
         {
-          "Azure": "False"
+          "Azure": "True"
         },
         {
-          "Oracle": "True"
+          "Oracle": "False"
         },
         {
-          "GCP": "True"
+          "GCP": "False"
         },
         {
-          "IBM": "True"
+          "IBM": "False"
         },
         {
-          "AWS": "True"
+          "AWS": "False"
         },
         {
           "Snowflake": "False"
@@ -2815,13 +2815,13 @@
           "Databricks": "False"
         },
         {
-          "Gsuite": "True"
+          "Gsuite": "False"
         },
         {
-          "O365": "True"
+          "O365": "False"
         },
         {
-          "Elephant DB": "True"
+          "Elephant DB": "False"
         }
       ],
       "Compliance": [
