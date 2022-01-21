@@ -413,7 +413,7 @@
       "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -481,43 +481,7 @@
           ]
         },
 		{
-          "Action": "Go To Data Transformation View",
-          "Url": "https://localhost:44399/Employee360/Landing",
-          "Images": [
-            {
-
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
-              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
-            }
-          ]
-        },
-		{
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -553,7 +517,7 @@
           ]
         },
 		{
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -589,7 +553,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -625,7 +589,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -661,7 +625,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -697,7 +661,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -733,7 +697,43 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Users and Roles",
+          "Url": "https://localhost:44399/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
+              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
+              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
+              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
+              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
+              "Text": "The Analytics module shows various metrics like job candidate details."
+            },
+            {
+              "Type": "Image",
+              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+            }
+          ]
+        },
+		{
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -769,7 +769,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -805,7 +805,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -856,7 +856,7 @@
       "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -873,7 +873,7 @@
             }
           ]
         }, {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -890,7 +890,7 @@
             }
           ]
         }, {
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -907,7 +907,7 @@
             }
           ]
         }, {
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -924,7 +924,7 @@
             }
           ]
         }, {
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -942,7 +942,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -978,7 +978,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1014,7 +1014,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1050,7 +1050,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1086,7 +1086,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1122,7 +1122,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1158,7 +1158,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1207,7 +1207,7 @@
       "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1225,7 +1225,7 @@
           ]
         },
         {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1242,7 +1242,7 @@
             }
           ]
         },{
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1260,7 +1260,7 @@
           ]
         },
 		{
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1278,7 +1278,7 @@
           ]
         },
 		{
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1296,7 +1296,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1332,7 +1332,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1368,7 +1368,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1404,7 +1404,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1440,7 +1440,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1476,7 +1476,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1512,7 +1512,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1561,7 +1561,7 @@
       "Description": "QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Marketing360/Landing",
           "Images": [
             {
@@ -1583,7 +1583,7 @@
           ]
         },
         {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Marketing360/Landing",
           "Images": [
             {
@@ -1605,7 +1605,7 @@
           ]
         },
 		        {
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Marketing360/Landing",
           "Images": [
             {
@@ -1627,7 +1627,7 @@
           ]
         },
 		        {
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Marketing360/Landing",
           "Images": [
             {
@@ -1649,7 +1649,7 @@
           ]
         },
 		        {
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Marketing360/Landing",
           "Images": [
             {
@@ -1671,7 +1671,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1707,7 +1707,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1743,7 +1743,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1779,7 +1779,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1815,7 +1815,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1851,7 +1851,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1887,7 +1887,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -1938,7 +1938,7 @@
       "Description": "QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Production360/ModuleLanding",
           "Images": [
             {
@@ -1968,7 +1968,7 @@
           ]
         },
         {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Production360/ModuleLanding",
           "Images": [
             {
@@ -1999,7 +1999,7 @@
 
         },
 		{
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Production360/ModuleLanding",
           "Images": [
             {
@@ -2030,7 +2030,7 @@
 
         },
 		{
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Production360/ModuleLanding",
           "Images": [
             {
@@ -2061,7 +2061,7 @@
 
         },
 		{
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Production360/ModuleLanding",
           "Images": [
             {
@@ -2092,7 +2092,7 @@
 
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2128,7 +2128,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2164,7 +2164,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2200,7 +2200,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2236,7 +2236,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2272,7 +2272,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2308,7 +2308,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2358,7 +2358,7 @@
       "Description": "QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2380,7 +2380,7 @@
           ]
         },
 		{
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2402,7 +2402,7 @@
           ]
         },
 		{
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2424,7 +2424,7 @@
           ]
         },
 		{
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2446,7 +2446,7 @@
           ]
         },
 		{
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2468,7 +2468,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2504,7 +2504,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2540,7 +2540,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2576,7 +2576,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2612,7 +2612,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2648,7 +2648,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2684,7 +2684,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2734,7 +2734,7 @@
       "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, POs, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer ",
+          "Action": "Storage Explorer ",
           "Url": "https://localhost:44399/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -2760,7 +2760,7 @@
           ]
         },
 		 {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -2786,7 +2786,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -2811,7 +2811,7 @@
             }
           ]
         }, {
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -2837,7 +2837,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -2863,7 +2863,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2899,7 +2899,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2935,7 +2935,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -2971,7 +2971,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3007,7 +3007,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3043,7 +3043,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3079,7 +3079,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3129,7 +3129,7 @@
       "Description": "Point Description or Tooltip here...",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Service360/ModuleLanding",
           "Images": [
             {
@@ -3147,7 +3147,7 @@
           ]
         },
 		 {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Service360/ModuleLanding",
           "Images": [
             {
@@ -3164,7 +3164,7 @@
             }
           ]
         }, {
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Service360/ModuleLanding",
           "Images": [
             {
@@ -3182,7 +3182,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Service360/ModuleLanding",
           "Images": [
             {
@@ -3200,7 +3200,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Service360/ModuleLanding",
           "Images": [
             {
@@ -3218,7 +3218,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3254,7 +3254,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3290,7 +3290,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3326,7 +3326,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3362,7 +3362,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3398,7 +3398,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3434,7 +3434,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3484,7 +3484,7 @@
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called Bike 360,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
         {
-          "Action": "Go To Storage Explorer",
+          "Action": "Storage Explorer",
           "Url": "https://localhost:44399/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3502,7 +3502,7 @@
           ]
         },
 		 {
-          "Action": "Go To Project Dashboard",
+          "Action": "Project Dashboard",
           "Url": "https://localhost:44399/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3520,7 +3520,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data Transformation View",
+          "Action": "Data Transformation View",
           "Url": "https://localhost:44399/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3538,7 +3538,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data Quality Dashboard",
+          "Action": "Data Quality Dashboard",
           "Url": "https://localhost:44399/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3556,7 +3556,7 @@
           ]
         },
 		 {
-          "Action": "Go To Data House Time Travel View",
+          "Action": "Data House Time Travel View",
           "Url": "https://localhost:44399/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3574,7 +3574,7 @@
           ]
         },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3610,7 +3610,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3646,7 +3646,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3682,7 +3682,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3718,7 +3718,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3754,7 +3754,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3790,7 +3790,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3841,7 +3841,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -3859,7 +3859,7 @@
               ]
             },
 			 {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -3876,7 +3876,7 @@
                 }
               ]
             }, {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -3894,7 +3894,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -3912,7 +3912,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -3930,7 +3930,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -3966,7 +3966,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4002,7 +4002,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4038,7 +4038,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4074,7 +4074,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4110,7 +4110,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4146,7 +4146,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4195,7 +4195,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4213,7 +4213,7 @@
               ]
             },
 			 {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4231,7 +4231,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4249,7 +4249,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4267,7 +4267,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4285,7 +4285,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4321,7 +4321,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4357,7 +4357,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4393,7 +4393,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4429,7 +4429,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4465,7 +4465,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4501,7 +4501,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4550,7 +4550,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4568,7 +4568,7 @@
               ]
             },
 			  {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4586,7 +4586,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4604,7 +4604,7 @@
               ]
             },
 			  {
-              "Action": "Go To Worflow and Execution Log",
+              "Action": "Worflow and Execution Log",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4622,7 +4622,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4640,7 +4640,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4676,7 +4676,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4712,7 +4712,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4748,7 +4748,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4784,7 +4784,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4820,7 +4820,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4856,7 +4856,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -4905,7 +4905,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4923,7 +4923,7 @@
               ]
             },
 			{
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4941,7 +4941,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4959,7 +4959,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4977,7 +4977,7 @@
               ]
             },
 			{
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4995,7 +4995,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5031,7 +5031,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5067,7 +5067,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5103,7 +5103,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5139,7 +5139,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5175,7 +5175,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5211,7 +5211,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5260,7 +5260,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/Content/Diversity360/index.html",
               "Images": [
                 {
@@ -5278,7 +5278,7 @@
               ]
             },
             {
-              "Action": "Go To Data  Analytics",
+              "Action": "Data  Analytics",
               "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
@@ -5296,7 +5296,7 @@
               ]
             },
 			{
-              "Action": "Go To Data  Rules",
+              "Action": "Data  Rules",
               "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
@@ -5314,7 +5314,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
@@ -5332,7 +5332,7 @@
               ]
             },
 			{
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/Content/Diversity360/SearchDEICompany.html",
               "Images": [
                 {
@@ -5350,7 +5350,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5386,7 +5386,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5422,7 +5422,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5458,7 +5458,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5494,7 +5494,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5530,7 +5530,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5566,7 +5566,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5615,7 +5615,7 @@
           "Description": "Point Description or Tooltip here.",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5633,7 +5633,7 @@
               ]
             },
 			 {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "https://localhost:44399/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5651,7 +5651,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "https://localhost:44399/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5669,7 +5669,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://localhost:44399/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5687,7 +5687,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5705,7 +5705,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5741,7 +5741,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5777,7 +5777,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5813,7 +5813,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5849,7 +5849,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5885,7 +5885,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5921,7 +5921,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -5970,7 +5970,7 @@
           "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/DataModel.html",
               "Images": [
                 {
@@ -5988,7 +5988,7 @@
               ]
             },
             {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
@@ -6006,7 +6006,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
@@ -6024,7 +6024,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
@@ -6042,7 +6042,7 @@
               ]
             },
 			{
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/BusinessUseCases/ADDA/Insurance360/RecommendationsDashboard.html",
               "Images": [
                 {
@@ -6060,7 +6060,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6096,7 +6096,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6132,7 +6132,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6168,7 +6168,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6204,7 +6204,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6240,7 +6240,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6276,7 +6276,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6325,7 +6325,7 @@
           "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings..",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6343,7 +6343,7 @@
               ]
             },
 			 {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "https://localhost:44399/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6361,7 +6361,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "https://localhost:44399/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6379,7 +6379,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://localhost:44399/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6397,7 +6397,7 @@
               ]
             },
 			 {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6415,7 +6415,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6451,7 +6451,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6487,7 +6487,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6523,7 +6523,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6559,7 +6559,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6595,7 +6595,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6631,7 +6631,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6680,7 +6680,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/OmniChannel360/index.html",
               "Images": [
                 {
@@ -6698,7 +6698,7 @@
               ]
             },
 			  {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "https://localhost:44399/OmniChannel360/index.html",
               "Images": [
                 {
@@ -6716,7 +6716,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "https://localhost:44399/OmniChannel360/index.html",
               "Images": [
                 {
@@ -6734,7 +6734,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://localhost:44399/OmniChannel360/index.html",
               "Images": [
                 {
@@ -6752,7 +6752,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/OmniChannel360/index.html",
               "Images": [
                 {
@@ -6770,7 +6770,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6806,7 +6806,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6842,7 +6842,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6878,7 +6878,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6914,7 +6914,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6941,7 +6941,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -6977,7 +6977,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7026,7 +7026,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7045,7 +7045,7 @@
               ]
             },
 			  {
-              "Action": "Go To Project Dashboard",
+              "Action": "Project Dashboard",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7064,7 +7064,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data Transformation View",
+              "Action": "Data Transformation View",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7083,7 +7083,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Quality Dashboard",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7102,7 +7102,7 @@
               ]
             },
 			  {
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data House Time Travel View",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7121,7 +7121,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7157,7 +7157,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7193,7 +7193,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7229,7 +7229,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7265,7 +7265,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7301,7 +7301,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7337,7 +7337,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7386,7 +7386,7 @@
           "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
           "Actions": [
             {
-              "Action": "Go To Storage Explorer",
+              "Action": "Storage Explorer",
               "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
@@ -7404,25 +7404,7 @@
               ]
             },
             {
-              "Action": "Go To Project Dashboard",
-              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
-              "Images": [
-                {
-                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-                  "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-                },
-                {
-                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-                  "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-                },
-                {
-                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
-                  "Text": "Logic App   Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
-                }
-              ]
-            },
-			{
-              "Action": "Go To Data Transformation View",
+              "Action": "Project Dashboard",
               "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
@@ -7440,7 +7422,7 @@
               ]
             },
 			{
-              "Action": "Go To Data Quality Dashboard",
+              "Action": "Data Transformation View",
               "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
@@ -7458,7 +7440,25 @@
               ]
             },
 			{
-              "Action": "Go To Data House Time Travel View",
+              "Action": "Data Quality Dashboard",
+              "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
+              "Images": [
+                {
+                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+                  "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+                },
+                {
+                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+                  "Text": "Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+                },
+                {
+                  "Data": "https://www.serverless360.com/wp-content/uploads/2017/08/Work-Flow-1.jpg",
+                  "Text": "Logic App   Description here, Logic App Description here, Logic App Description here, Logic App Description here, Logic App Description here"
+                }
+              ]
+            },
+			{
+              "Action": "Data House Time Travel View",
               "Url": "https://localhost:44399/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
@@ -7476,7 +7476,7 @@
               ]
             },
 		{
-          "Action": "Go To Virtualize ER Model",
+          "Action": "Virtualize ER Model",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7512,7 +7512,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(amcharts)",
+          "Action": "Scenarios(amcharts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7548,7 +7548,7 @@
           ]
         },
 		{
-          "Action": "Go To Scenarios(Google Charts)",
+          "Action": "Scenarios(Google Charts)",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7584,7 +7584,7 @@
           ]
         },
 		{
-          "Action": "Go To Users and Roles",
+          "Action": "Users and Roles",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7620,7 +7620,7 @@
           ]
         },
 		{
-          "Action": "Go To Execution Telemetry",
+          "Action": "Execution Telemetry",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7656,7 +7656,7 @@
           ]
         },
 {
-          "Action": "Show Project Architecture",
+          "Action": "Project Architecture",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
@@ -7692,7 +7692,7 @@
           ]
         },
 		{
-          "Action": "Show Project Metadata",
+          "Action": "Project Metadata",
           "Url": "https://localhost:44399/Employee360/Landing",
           "Images": [
             {
