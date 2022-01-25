@@ -412,112 +412,55 @@
       "type": "carousel",
       "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
-        {
-          "Action": "Storage Explorer",
+	   {
+          "Action": "IOT Gateway Check",
+		  "Category":"Ingestion",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
               "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
             }
           ]
-        },
-        {
-          "Action": "Project Dashboard",
+        }, {
+          "Action": "Data Gateway Check",
+		  "Category":"Ingestion",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
+        },{
+          "Action": "Cloud Bridge",
+		  "Category":"Ingestion",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
             {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
             }
           ]
         },
 		{
-          "Action": "Data Transformation View",
+          "Action": "Source Folder Check",
+		  "Category":"Project",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
               "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
             }
           ]
         },
 		{
-          "Action": "Data Quality Dashboard",
+          "Action": "Staging Explorer",
+		  "Category":"Project",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -528,32 +471,11 @@
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
               "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
             }
           ]
-        },
-		{
-          "Action": "Data House Time Travel View",
+        },{
+          "Action": "Project Architecture",
+		  "Category":"Project",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -564,130 +486,6 @@
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
               "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
-            }
-          ]
-        },
-		{
-          "Action": "Virtualize ER Model",
-          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
-          "Images": [
-            {
-
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
-              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
-            }
-          ]
-        },
-		{
-          "Action": "Scenarios(amcharts)",
-          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
-          "Images": [
-            {
-
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
-              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
-            },
-            {
-              "Type": "Image",
-              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
-              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
-            }
-          ]
-        },
-		{
-          "Action": "Scenarios(Google Charts)",
-          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
-          "Images": [
-            {
-
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
-              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
-              "Text": "The Analytics module shows various metrics like job candidate details."
             },
             {
               "Type": "Image",
@@ -698,6 +496,126 @@
         },
 		{
           "Action": "Users and Roles",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
+              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
+            },
+            {
+              "Type": "Image",
+              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+            }
+          ]
+        },{
+          "Action": "Project Dashboard",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
+              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
+              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
+            }
+          ]
+        },
+		{
+          "Action": "Project Metadata",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
+              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
+            },
+            {
+              "Type": "Image",
+              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+            }
+          ]
+        },
+		{
+          "Action": "API Catalog",
+		  "Category":"DataScape",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
+        },{
+          "Action": "Workspaces",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
+        },{
+          "Action": "Data Pre-Processing View",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
+        },{
+          "Action": "Data Transformation - Fact/Dim",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
+        },
+		{
+          "Action": "Data House Time Travel View",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            },
+            {
+              "Type": "Image",
+              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+            }
+          ]
+        },
+		{
+          "Action": "Data Quality Dashboard",
+		  "Category":"DataScape",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -734,28 +652,13 @@
         },
 		{
           "Action": "Execution Telemetry",
+		  "Category":"DataScape",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
 
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
               "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
-              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Department.png",
-              "Text": "The Department module has various attributes like department names, group name and the user can create update delete departments here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Shifts.png",
-              "Text": "The Shift module has various attributes like shift name, start time, end time and the user can create update delete shifts here."
-            },
-            {
-              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-JobCandidate.png",
-              "Text": "The Job Candidate module has various attributes like Candidate id, resume and the user can create update delete candidates here."
             },
             {
               "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Analytics.png",
@@ -768,8 +671,9 @@
             }
           ]
         },
-{
-          "Action": "Project Architecture",
+		{
+          "Action": "Virtualize ER Model",
+		  "Category":"Project",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -805,7 +709,29 @@
           ]
         },
 		{
-          "Action": "Project Metadata",
+          "Action": "Scenarios(amcharts)",
+		  "Category":"Project",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            },
+            {
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-Employee.png",
+              "Text": "The Employee module has various attributes like Employee Name, Job Title, Organization level etc. and the user can create, update and delete employees here."
+            },
+            {
+              "Type": "Image",
+              "Data": "https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-message-enrichments-overview/message-enrichments-flow.png",
+              "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
+            }
+          ]
+        },
+		{
+          "Action": "Scenarios(Google Charts)",
+		  "Category":"Project",
           "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -839,6 +765,18 @@
               "Text": "IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here..IOT Hub Description goes here.."
             }
           ]
+        },
+		{
+          "Action": "ITSM",
+		  "Category":"DataScape",
+          "Url": "https://fusionenterprise.azurewebsites.net/Employee360/Landing",
+          "Images": [
+            {
+
+              "Data": "https://raw.githubusercontent.com/bdevika948/HeroWorks/main/Carousel/Employee360-App.png",
+              "Text": "QuestMotors has got  their Employee360 system which having 4 primary modules like Employee , Department , Shift and Job Candidate"
+            }
+          ]
         }
       ]
     
@@ -856,7 +794,7 @@
       "Description": "QuestMotors has an internal ticketing system to manage all their infrastructure powered by Azure NoSQL Cosmos DB. The system supports raising tickets, tracking them and even has ML powered Root Cause Analysis.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/ITDesk360/ModuleLanding",
           "Images": [
             {
@@ -1207,7 +1145,7 @@
       "Description": "QuestMotors has an internal legal system to manage all their issues powered by AWS NoSQL Cosmos DB. The system supports raising legal case, notifying them and provides various metrics.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Legal360/ModuleLanding",
           "Images": [
             {
@@ -1561,7 +1499,7 @@
       "Description": "QuestMotors intends to expand their customers beyond the existing Brick-and-Mortar stores to modern channels like web, social and other online channels. The company has invested a modern marketing system on IBM Cloud.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Marketing360/Landing",
           "Images": [
             {
@@ -1938,7 +1876,7 @@
       "Description": "QuestMotors has transformed their on-premise legacy Work Orders and Routing system to a Zero-Maintenance SaaS database ElephantDB and Azure Web Front-end.  The system has on-premise sync via data gateway.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Production360/ModuleLanding",
           "Images": [
             {
@@ -2358,7 +2296,7 @@
       "Description": "QuestMotors have a strong customer presence of 1 million, primarily in Europe. The Sales system is powered by Snowflake and include advance analytics per auxiliary sales and support and compliant with GDPR, PCI, PII standards.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Sales360/ModuleLanding",
           "Images": [
             {
@@ -2734,7 +2672,7 @@
       "Description": "QuestMotors has a connected vendor system powered by Azure Cloud SQL and Data Lake Storage. The system manages the inter-connectivity of vendors, product, POs, Audits and compliance records. The system is multi-document compatible for purchase orders in JSON, XML and OCR compatible images.",
       "Actions": [
         {
-          "Action": "Storage Explorer ",
+          "Action": "Staging Explorer ",
           "Url": "https://fusionenterprise.azurewebsites.net/Vendor360/ModuleLanding",
           "Images": [
             {
@@ -3129,7 +3067,7 @@
       "Description": "Point Description or Tooltip here...",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Service360/ModuleLanding",
           "Images": [
             {
@@ -3484,7 +3422,7 @@
       "Description": "Quest Motors is envisioning a risk and disaster listening and warning system called Bike 360,which constantly scans and listens data from IoT Hubs and Risks from News, Social channels etc. For its supply chain and alerts all stakeholders in real time and even takes Intelligent AI powered healing actions !.",
       "Actions": [
         {
-          "Action": "Storage Explorer",
+          "Action": "Staging Explorer",
           "Url": "https://fusionenterprise.azurewebsites.net/Content/eBike360/light/index.html",
           "Images": [
             {
@@ -3841,7 +3779,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4195,7 +4133,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -4550,7 +4488,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "http://www.google.com",
               "Images": [
                 {
@@ -4905,7 +4843,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "http://www.google.com/",
               "Images": [
                 {
@@ -5260,7 +5198,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/Content/Diversity360/index.html",
               "Images": [
                 {
@@ -5615,7 +5553,7 @@
           "Description": "Point Description or Tooltip here.",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/Content/Reflect360/index.html",
               "Images": [
                 {
@@ -5970,7 +5908,7 @@
           "Description": "QuestMotors tracks the various insurance developments across the globe to fine tune its own policies and ensure safety of the employees.",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/BusinessUseCases/ADDA/Insurance360/DataModel.html",
               "Images": [
                 {
@@ -6325,7 +6263,7 @@
           "Description": "QuestMotors has an experience sharing platform on which engineers and field persons can share their experiences and learnings..",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/Content/Experience360/light/index.html",
               "Images": [
                 {
@@ -6680,7 +6618,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/OmniChannel360/index.html",
               "Images": [
                 {
@@ -7026,7 +6964,7 @@
           "Description": "Point Description or Tooltip here...",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://www.google.com/",
               "Images": [
                 {
@@ -7386,7 +7324,7 @@
           "Description": "QuestMotors has an active covid tracking across all its facilities around the world.The information collected is used  to analyse threats and put across an action plan.",
           "Actions": [
             {
-              "Action": "Storage Explorer",
+              "Action": "Staging Explorer",
               "Url": "https://fusionenterprise.azurewebsites.net/Content/CovidMonitoring360/CovidAct-Dashboard.html",
               "Images": [
                 {
