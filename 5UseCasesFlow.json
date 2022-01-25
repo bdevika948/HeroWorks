@@ -7733,6 +7733,8 @@
   "Projects": [
     {
       "Name": "QuestMotors",
+	  "IntroductionText":"welcome to questmotors",
+"LandingImage":"https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
       "Velocity": [
         {
           "Hot": "False"
@@ -7892,6 +7894,8 @@
     },
     {
       "Name": "BrazilCommerce",
+	  	  "IntroductionText":"Welcome to BrazilCommerce",
+"LandingImage":"https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
       "Velocity": [
         {
           "Hot": "True"
@@ -8051,6 +8055,8 @@
     },
     {
       "Name": "ADDA",
+	  	  "IntroductionText":"Welcome to ADDA",
+"LandingImage":"https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
       "Velocity": [
         {
           "Hot": "False"
@@ -8210,6 +8216,8 @@
     },
     {
       "Name": "ARC",
+	  	  "IntroductionText":"Welcome to ARC",
+"LandingImage":"https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
       "Velocity": [
         {
           "Hot": "True"
@@ -8369,6 +8377,8 @@
     },
     {
       "Name": "AdventureWorks",
+	  	  "IntroductionText":"Welcome to AdventureWorks",
+"LandingImage":"https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
       "Velocity": [
         {
           "Hot": "False"
