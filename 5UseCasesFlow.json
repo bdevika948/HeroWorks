@@ -8617,7 +8617,7 @@
     },
     {
       "Name": "ARC",
-	   "IntroductionText": "Welcome to ARC",
+	   "IntroductionText": "This usecase demonstartes how a web-based travel company leverages unify in providing travel recommendations to its customer.Unify integrates data like reviews , safety , weather, travel data etc in providing a preference score for a travel destination.",
       "LandingImage": "https://polycloudapp.blob.core.windows.net/sentient360/SampleGIFImage_40kbmb.gif",
       "Velocity": [
         {
