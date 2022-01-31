@@ -426,7 +426,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -438,7 +438,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -450,7 +450,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -462,7 +462,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -717,7 +717,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -738,7 +738,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -814,7 +814,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -826,7 +826,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -838,7 +838,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -850,7 +850,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1105,7 +1105,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1126,7 +1126,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1200,7 +1200,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1212,7 +1212,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1224,7 +1224,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1236,7 +1236,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1491,7 +1491,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1512,7 +1512,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1586,7 +1586,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1598,7 +1598,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1610,7 +1610,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1622,7 +1622,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1877,7 +1877,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1898,7 +1898,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1973,7 +1973,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1985,7 +1985,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -1997,7 +1997,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2009,7 +2009,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2264,7 +2264,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2285,7 +2285,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2360,7 +2360,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2372,7 +2372,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2384,7 +2384,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2396,7 +2396,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2651,7 +2651,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2672,7 +2672,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2747,7 +2747,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2759,7 +2759,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2771,7 +2771,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -2783,7 +2783,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3038,7 +3038,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3059,7 +3059,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3134,7 +3134,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3146,7 +3146,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3158,7 +3158,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3170,7 +3170,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3425,7 +3425,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3446,7 +3446,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3521,7 +3521,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3533,7 +3533,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3545,7 +3545,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3557,7 +3557,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3812,7 +3812,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3833,7 +3833,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3909,7 +3909,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3921,7 +3921,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3933,7 +3933,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -3945,7 +3945,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4200,7 +4200,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4221,7 +4221,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4295,7 +4295,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4307,7 +4307,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4319,7 +4319,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4331,7 +4331,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4586,7 +4586,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4607,7 +4607,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4681,7 +4681,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4693,7 +4693,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4705,7 +4705,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4717,7 +4717,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4972,7 +4972,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -4993,7 +4993,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5067,7 +5067,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5079,7 +5079,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5091,7 +5091,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5103,7 +5103,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5358,7 +5358,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5379,7 +5379,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5453,7 +5453,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5465,7 +5465,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5477,7 +5477,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5489,7 +5489,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5744,7 +5744,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5765,7 +5765,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5839,7 +5839,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5851,7 +5851,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5863,7 +5863,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -5875,7 +5875,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6130,7 +6130,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6151,7 +6151,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6225,7 +6225,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6237,7 +6237,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6249,7 +6249,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6261,7 +6261,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6516,7 +6516,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6537,7 +6537,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6611,7 +6611,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6623,7 +6623,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6635,7 +6635,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6647,7 +6647,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6902,7 +6902,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6923,7 +6923,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -6997,7 +6997,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7009,7 +7009,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7021,7 +7021,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7033,7 +7033,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7288,7 +7288,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7309,7 +7309,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7383,7 +7383,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7395,7 +7395,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7407,7 +7407,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7419,7 +7419,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7674,7 +7674,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7695,7 +7695,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7769,7 +7769,7 @@
         },
         {
           "Action": "Data Gateway Check",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7781,7 +7781,7 @@
         },
         {
           "Action": "Cloud Bridge",
-          "Category": "Ingestion",
+          "Category": "DataWarehouse",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7793,7 +7793,7 @@
         },
         {
           "Action": "Source Folder Check",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -7805,7 +7805,7 @@
         },
         {
           "Action": "Staging Explorer",
-          "Category": "Project",
+          "Category": "Operations",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -8060,7 +8060,7 @@
         },
         {
           "Action": "Scenarios(amcharts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
@@ -8081,7 +8081,7 @@
         },
         {
           "Action": "Scenarios(Google Charts)",
-          "Category": "Project",
+          "Category": "Scenarios",
           "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
           "Images": [
             {
