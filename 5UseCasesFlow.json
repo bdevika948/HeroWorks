@@ -8618,7 +8618,7 @@
     {
       "Name": "ARC",
 	   "IntroductionText": "Welcome to ARC",
-      "LandingImage": "https://tenor.com/view/azure-active-directory-tutorial-architecture-gif-16593607",
+      "LandingImage": "https://polycloudapp.blob.core.windows.net/sentient360/SampleGIFImage_40kbmb.gif",
       "Velocity": [
         {
           "Hot": "True"
