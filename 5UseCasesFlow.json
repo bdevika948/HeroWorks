@@ -22,16 +22,15 @@
             "Marketing360",
             "Employee360",
             "Diversity360",
-            "Experience360",
-            "Insurance360"
+            "Experience360"
+            
           ]
         },
         {
           "SubFeature": "Cold",
           "Description": "Data Speed : Hundreds' of messages per minute-Data Volume : Small / Medium packets-Data Systems : Complaince360 , Legal360 ",
           "ReferredPoints": [
-            "Employee360",
-            "Service360"
+            "Insurance360"
           ]
         },
         {
@@ -8458,10 +8457,10 @@
 
         },
         {
-          "Warm": "True"
+          "Warm": "False"
         },
         {
-          "Cold": "False"
+          "Cold": "True"
         },
         {
           "RealTime": "False"
@@ -8475,7 +8474,7 @@
       ],
       "Variety": [
         {
-          "Structured": "True"
+          "Structured": "False"
         },
         {
           "Semi-Structured": "False"
