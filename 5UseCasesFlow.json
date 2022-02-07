@@ -8,7 +8,7 @@
           "SubFeature": "Hot",
           "Description": "Data Speed : Millions of messages per second - Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-             "TravelVerseEWA360"
+            "TravelVerseEWA360"
           ]
         },
         {
@@ -5870,7 +5870,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5907,7 +5907,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5928,7 +5928,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5977,7 +5977,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=ARC-TravelVerse&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5989,7 +5989,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=ARC-TravelVerse&appname=Cleansing&wsp=MLWorkspace&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -7414,7 +7414,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -7451,7 +7451,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -7472,7 +7472,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=ARC-TravelVerse&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -7521,7 +7521,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=ARC-TravelVerse&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -7533,7 +7533,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=ARC-TravelVerse&appname=Cleansing&wsp=MLWorkspace&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
