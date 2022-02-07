@@ -8,8 +8,6 @@
           "SubFeature": "Hot",
           "Description": "Data Speed : Millions of messages per second - Data Volume : Small/Medium packets -Data Systems : Bike360 ,  Device360",
           "ReferredPoints": [
-            "eBike360",
-            "Device360",
             "TravelVerseEWA360"
           ]
         },
@@ -182,9 +180,6 @@
           "SubFeature": "NoSQL",
           "Description": "Data Format : JSON-Data Storage : Azure CosmosDB , IBM Cloudant , AWS Dynamo DB-Data Systems : Service360 , Legal360 , Marketing360",
           "ReferredPoints": [
-            "Service360",
-            "Legal360",
-            "Marketing360",
             "Reflect360"
           ]
         },
@@ -8670,7 +8665,7 @@
       ],
       "Volume - BigData": [
         {
-          "100 Million Rows": "True"
+          "100 Million Rows": "False"
         },
         {
           "20000 columns": "False"
@@ -8684,7 +8679,7 @@
           "SQL": "False"
         },
         {
-          "NoSQL": "False"
+          "NoSQL": "True"
         },
         {
           "SQL": "False"
