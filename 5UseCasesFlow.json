@@ -8275,7 +8275,7 @@
           "Cache": "True"
         },
         {
-          "CDN": "True"
+          "CDN": "False"
         }
       ]
 
