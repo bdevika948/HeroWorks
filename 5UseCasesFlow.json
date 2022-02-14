@@ -8247,10 +8247,10 @@
           "GDPR": "True"
         },
         {
-          "PCI": "True"
+          "PCI": "False"
         },
         {
-          "PII": "True"
+          "PII": "False"
         }
       ],
       "Social Media": [
@@ -8258,7 +8258,7 @@
           "Twitter": "False"
         },
         {
-          "Linkedin": "True"
+          "Linkedin": "False"
         }
       ],
       "Consumption": [
@@ -8266,10 +8266,10 @@
           "In-Memory": "False"
         },
         {
-          "Virtualized": "True"
+          "Virtualized": "False"
         },
         {
-          "Cache": "True"
+          "Cache": "False"
         },
         {
           "CDN": "False"
