@@ -8189,9 +8189,6 @@
           "NoSQL": "False"
         },
         {
-          "SQL": "True"
-        },
-        {
           "Graph": "False"
         },
         {
@@ -8244,7 +8241,7 @@
       ],
       "Compliance": [
         {
-          "GDPR": "True"
+          "GDPR": "False"
         },
         {
           "PCI": "False"
