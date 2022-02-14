@@ -165,7 +165,6 @@
           "ReferredPoints": [
             "Employee360",
             "Sales360",
-            "Vendor360",
             "Marketing360"
           ]
         },
@@ -195,8 +194,7 @@
           "SubFeature": "OpenSource",
           "Description": "Data Format : CSV , JSON-Data Storage : AWS DynamoDB , ElephantDB Postgres-Data Systems : Legal360 , Production360",
           "ReferredPoints": [
-            "Legal360",
-            "Production360"
+            "Legal360"
           ]
         },
         {
@@ -235,8 +233,7 @@
           "SubFeature": "Azure",
           "Description": "Criteria : -Cloud :  Azure SQL , Azure ADLS-Data System: Employee360 , Vendor360 ",
           "ReferredPoints": [
-            "Employee360",
-            "Vendor360"
+            "Employee360"
           ]
         },
         {
