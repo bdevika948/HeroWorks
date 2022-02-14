@@ -23,7 +23,7 @@
             "Employee360",
             "Diversity360",
             "Experience360"
-            
+
           ]
         },
         {
@@ -91,7 +91,6 @@
           "SubFeature": "Text",
           "Description": "Data Format : Email , PDF , Text files-Data Volume : In MB-Data Systems :Service360",
           "ReferredPoints": [
-            "Service360"
           ]
         },
         {
@@ -111,9 +110,7 @@
         {
           "SubFeature": "JSON",
           "Description": "Data Format : JSON-Data Volume : In MB-Data Systems : Service360",
-          "ReferredPoints": [
-            "Service360"
-          ]
+          "ReferredPoints": []
         },
         {
           "SubFeature": "XML",
@@ -169,10 +166,7 @@
             "Employee360",
             "Sales360",
             "Vendor360",
-            "Marketing360",
-            "Production360",
-            "Compliance360",
-            "OmniChannel360"
+            "Marketing360"
           ]
         },
         {
@@ -8138,7 +8132,7 @@
           "Warm": "False"
         },
         {
-          "Cold": "True"
+          "Cold": "False"
         },
         {
           "RealTime": "False"
