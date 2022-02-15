@@ -15,12 +15,8 @@
           "SubFeature": "Warm",
           "Description": "Data Speed : Thousands of messages per second-Data Volume : Small / Medium packets-Data Systems : Marketing360 , Social360 , Production360 , Service360 , Vendor360 , Employee360",
           "ReferredPoints": [
-            "Social360",
             "Production360",
-            "Service360",
             "Vendor360",
-            "Marketing360",
-            "Employee360",
             "Diversity360",
             "Experience360"
 
@@ -8852,7 +8848,7 @@
       ],
       "Poly / Hybrid Cloud": [
         {
-          "Azure": "True"
+          "Azure": "False"
         },
         {
           "Oracle": "False"
