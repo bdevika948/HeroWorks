@@ -1990,7 +1990,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2027,7 +2027,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2048,7 +2048,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2097,7 +2097,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2109,7 +2109,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&wsp=Workspace1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2764,7 +2764,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2801,7 +2801,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2822,7 +2822,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2871,7 +2871,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -2883,7 +2883,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&wsp=Workspace1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5469,7 +5469,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5506,7 +5506,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5527,7 +5527,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5576,7 +5576,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -5588,7 +5588,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&wsp=Workspace1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -6627,7 +6627,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -6664,7 +6664,7 @@
         {
           "Action": "Users and Roles",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/Home/RoleUserMap?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -6685,7 +6685,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=AdventureWorks-SalesAnalyticsDWH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -6734,7 +6734,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -6746,7 +6746,7 @@
         {
           "Action": "Data Pre-Processing View",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/LandingWorkFlow?Project=AdventureWorks-SalesAnalyticsDWH&appname=Cleansing&wsp=Workspace1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
