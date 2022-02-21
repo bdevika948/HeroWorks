@@ -3539,7 +3539,7 @@
         {
           "Action": "Staging Explorer",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/DataExplorer/PolyCloudConnection?Project=BrazilCommerce-CommerceAnalysis&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -3597,7 +3597,7 @@
         {
           "Action": "Project Dashboard",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneProject/ProjectOverview?Project=BrazilCommerce-CommerceAnalysis&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
@@ -3646,7 +3646,7 @@
         {
           "Action": "Workspaces",
           "Category": "Project",
-          "Url": "https://fusionenterprisev4.azurewebsites.net/Employee360/Landing",
+          "Url": "https://databench.azurewebsites.net/OneCompose/GenericWorkspaceView?Project=BrazilCommerce-CommerceAnalysis&appname=Cleansing&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJQYXNzd29yZCI6IkluZnkxMjNAIn0.U5RIJKubVXRSY4TMWUBtFFtmhwCxusmTTYcq9ZMYr4A",
           "Images": [
             {
 
