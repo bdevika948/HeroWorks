@@ -412,8 +412,8 @@
       "type": "carousel",
       "Description": "QuestMotors have their Employee Management System on Azure Cloud SQL and Web Front-end. The Company employs around 20,000 active force across various geographies including portfolios like Production, Sales/Marketing, Customer Support services, Legal etc.",
       "Actions": [
-        { "Go To Employee360 Landing": "https://localhost:44399/Employee360/Landing" },
-        { "Go To Employee360 Analytics": "https://localhost:44399/Employee360/Analytics" }
+        { "Go To Employee360 Landing": "WebApp/Employee360/Employee360_Department.html" },
+        { "Go To Employee360 Analytics": "file:///G:/My%20Drive/Titan/WebApp/Employee360/Employee360_Employee.html" }
       ],
       "Popup": [
         {
